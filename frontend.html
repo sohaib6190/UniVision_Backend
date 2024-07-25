@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Recommendation System</title>
+</head>
+<body>
+    <h1>University Recommendation System</h1>
+    <form id="userDataForm">
+        <label for="userName">Name:</label>
+        <input type="text" id="userName" name="userName" required><br><br>
+        <label for="userGrade">Grade:</label>
+        <input type="text" id="userGrade" name="userGrade" required><br><br>
+        <label for="userFees">Fees:</label>
+        <input type="text" id="userFees" name="userFees" required><br><br>
+        <button type="submit">Submit</button>
+    </form>
+
+    <div id="recommendationResult"></div>
+
+    <script>
+        document.getElementById('userDataForm').addEventListener('submit', async function(event) {
+            event.preventDefault();
+            const userName = document.getElementById('userName').value;
+            const userGrade = document.getElementById('userGrade').value;
+            const userFees = document.getElementById('userFees').value;
+
+            const response = await fetch('/recommend', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ userName, userGrade, userFees })
+            });
+            const data = await response.json();
+            document.getElementById('recommendationResult').innerText = `Recommended University: ${data.university}`;
+        });
+    </script>
+</body>
+</html>

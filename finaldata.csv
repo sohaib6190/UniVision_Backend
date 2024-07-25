@@ -1,0 +1,1294 @@
+University Code,University Name,Rating,Course Code,Course Name,Fee,Grade,Level,Tag
+1,DHA Suffa University,1,1,BS - Computer Science,112900,50,Bachelor,Computer Science
+1,DHA Suffa University,1,2,BS - BBA,104150,50,Bachelor,Business Administration
+1,DHA Suffa University,1,3,BS - Accounting & Finance,81200,50,Bachelor,Accounting
+1,DHA Suffa University,1,4,BS - English,61963,50,Bachelor,English Literature
+1,DHA Suffa University,1,5,BS - International Relations,68578,50,Bachelor,International Relations
+1,DHA Suffa University,1,6,BS - Psychology,78500,50,Bachelor,Psychology
+1,DHA Suffa University,1,7,BS - Electrical Engineering,101900,50,Bachelor,Electrical Engineering
+1,DHA Suffa University,1,8,BS - Civil Engineering,109425,50,Bachelor,Civil Engineering
+1,DHA Suffa University,1,9,BS - Artifical Intelligence,107530,50,Bachelor,Artificial Intelligence
+1,DHA Suffa University,1,10,BS - Software Engineering,118270,50,Bachelor,Software Engineering
+1,DHA Suffa University,1,11,BS - Data Science,107530,50,Bachelor,Data Science
+1,DHA Suffa University,1,12,BE - Mechanical Engineering,117075,60,Bachelor,Mechanical Engineering
+1,DHA Suffa University,1,13,MBA - Business Administration,98550,2,Master,Business
+1,DHA Suffa University,1,14,MS - Computer Science,98550,2,Master,Computer Science
+1,DHA Suffa University,1,15,MS - Electrical,98550,2,Master,Electrical
+1,DHA Suffa University,1,16,MS - Management Sciences,98550,2,Master,Management
+1,DHA Suffa University,1,17,MS - Mechanical,98550,2,Master,Mechanical
+1,DHA Suffa University,1,18,MS-Psychology,98550,2,Master,Psychology
+2,University of Karachi,1,19,BS - Actuarial Sciences & Risk Management,63000,null,Bachelor,Actuarial Science
+2,University of Karachi,1,20,BS (HONS) - Agriculture & Agribusiness Management,71000,53.3,Bachelor,Agriculture
+2,University of Karachi,1,21,BS (HONS) - Applied Chemistry & Chemical Technology,39000,58.36,Bachelor,Chemistry
+2,University of Karachi,1,22,BS - Applied Mathematics,47500,null,Bachelor,Applied Mathematics
+2,University of Karachi,1,23,BS (HONS) - Applied Physics,34500,59.27,Bachelor,Applied Physics
+2,University of Karachi,1,24,BS - Applied Statistics,34500,null,Bachelor,Applied Statistics
+2,University of Karachi,1,25,BS - Arabic,23500,45.18,Bachelor,Arabic
+2,University of Karachi,1,26,B.ARCH - Architecture,null,null,Bachelor,Architecture
+2,University of Karachi,1,27,BS - Audiology & Speech Pathology,null,null,Bachelor,Audiology
+2,University of Karachi,1,28,BS - Bengali,23500,40,Bachelor,Bengali
+2,University of Karachi,1,29,BS - Biochemistry,39000,null,Bachelor,Biochemistry
+2,University of Karachi,1,30,BS - Biotechnology,39000,74.91,Bachelor,Biotechnology
+2,University of Karachi,1,31,BS - Botany,34500,58.82,Bachelor,Botany
+2,University of Karachi,1,32,BBA (H) - Business Administration,102000,null,Bachelor,Business Administration
+2,University of Karachi,1,33,BE - Chemical,71000,60.55,Bachelor,Chemical Engineering
+2,University of Karachi,1,34,BS - Chemistry,39000,72.82,Bachelor,Chemistry
+2,University of Karachi,1,35,BS - Chinese,28500,null,Bachelor,Chinese
+2,University of Karachi,1,36,BS - Commerce,42000,54.09,Bachelor,Commerce
+2,University of Karachi,1,37,BS - Computational Mathematics,47500,50.18,Bachelor,Computational Mathematics
+2,University of Karachi,1,38,BS - Computer Science,78500,77.91,Bachelor,Computer Science
+2,University of Karachi,1,39,BA [HONS] - Criminology,53000,null,Bachelor,Criminology
+2,University of Karachi,1,40,BS - Criminology,53000,54.73,Bachelor,Criminology
+2,University of Karachi,1,41,B.DES - Design,null,null,Bachelor,Design
+2,University of Karachi,1,42,BS - Economics,31000,66.45,Bachelor,Economics
+2,University of Karachi,1,43,BS - Economics & Finance,31000,73.18,Bachelor,Economics
+2,University of Karachi,1,44,BS - Education,31000,55.55,Bachelor,Education
+2,University of Karachi,1,45,B.ED (HONS) - Education,31000,46,Bachelor,Education
+2,University of Karachi,1,46,BS - Education [health & Physical],34500,60.91,Bachelor,Education
+2,University of Karachi,1,47,BS - Education [special],31000,55.55,Bachelor,Education
+2,University of Karachi,1,48,B.ED - Education [teacher],31000,46,Bachelor,Education
+2,University of Karachi,1,49,BS - English,31000,77.55,Bachelor,English Literature
+2,University of Karachi,1,50,BS - Environmental Studies,63000,59.09,Bachelor,Environmental Studies
+2,University of Karachi,1,51,BS - Financial Mathematics,47500,50.82,Bachelor,Financial Mathematics
+2,University of Karachi,1,52,BFA - Fine Arts,null,null,Bachelor,Fine Arts
+2,University of Karachi,1,53,BS - Food Science & Technology,39000,66.09,Bachelor,Food Science
+2,University of Karachi,1,54,BS - Genetics,34500,75.55,Bachelor,Genetics
+2,University of Karachi,1,55,BS - Geography,34500,45.36,Bachelor,Geography
+2,University of Karachi,1,56,BS - Geology,34500,45.27,Bachelor,Geology
+2,University of Karachi,1,57,BA [HONS] - History,28500,46.73,Bachelor,History
+2,University of Karachi,1,58,BS - Human Diet & Nutrition,47500,80.73,Bachelor,Nutrition
+2,University of Karachi,1,59,BS - Human Resources Management,null,null,Bachelor,Human Resources
+2,University of Karachi,1,60,BS - International Relations,31000,79.91,Bachelor,International Relations
+2,University of Karachi,1,61,BS - Islamic Banking & Finance,null,null,Bachelor,Islamic Banking
+2,University of Karachi,1,62,BA [HONS] - Islamic History,23500,45.09,Bachelor,Islamic History
+2,University of Karachi,1,63,BS - Islamic Learning,23500,45.09,Bachelor,Islamic Studies
+2,University of Karachi,1,64,BS - Islamic Studies,23500,45.09,Bachelor,Islamic Studies
+2,University of Karachi,1,65,LLB - Law (3 Years),84000,null,Bachelor,Law
+2,University of Karachi,1,66,LLB - Law (5 Years),84000,null,Bachelor,Law
+2,University of Karachi,1,67,BLS - Library & Information Science,28500,56.18,Bachelor,Library Science
+2,University of Karachi,1,68,BS - Marine Sciences,34500,60.82,Bachelor,Marine Science
+2,University of Karachi,1,69,BS - Mass Communication,31000,60.45,Bachelor,Mass Communication
+2,University of Karachi,1,70,BS - Mathematics,34500,56.45,Bachelor,Mathematics
+2,University of Karachi,1,71,BS - Medical Laboratory Technology,39000,null,Bachelor,Medical Laboratory
+2,University of Karachi,1,72,BS - Microbiology,39000,79.27,Bachelor,Microbiology
+2,University of Karachi,1,73,BS - Pakistan Studies,28500,66.27,Bachelor,Pakistan Studies
+2,University of Karachi,1,74,BA [HONS] - Persian,23500,46.18,Bachelor,Persian
+2,University of Karachi,1,75,BS - Petroleum Technology,86500,55.64,Bachelor,Petroleum Technology
+2,University of Karachi,1,76,PHARM.D - Pharmacy,71000,null,Bachelor,Pharmacy
+2,University of Karachi,1,77,B.Sc. [Hons] - Philosophy,23500,52,Bachelor,Philosophy
+2,University of Karachi,1,78,DPT - Physical Therapy,190000,63.27,Bachelor,Physical Therapy
+2,University of Karachi,1,79,BS - Physics,34500,45.27,Bachelor,Physics
+2,University of Karachi,1,80,BS - Physiology,39000,70.27,Bachelor,Physiology
+2,University of Karachi,1,81,BS - Political Science,28500,70.09,Bachelor,Political Science
+2,University of Karachi,1,82,BS - Poultry Sciences,39000,51.82,Bachelor,Poultry Science
+2,University of Karachi,1,83,BS - Psychology,31000,85.25,Bachelor,Psychology
+2,University of Karachi,1,84,BPA - Public Administration,55000,57.91,Bachelor,Public Administration
+2,University of Karachi,1,85,BS - Public Health,39000,64.27,Bachelor,Public Health
+2,University of Karachi,1,86,BS - Public Policy,null,null,Bachelor,Public Policy
+2,University of Karachi,1,87,BS - Quraan & Sunnah,23500,45.45,Bachelor,Quran & Sunnah
+2,University of Karachi,1,88,BS - Sindhi,23500,67.45,Bachelor,Sindhi
+2,University of Karachi,1,89,BA [HONS] - Social Work,28500,59.27,Bachelor,Social Work
+2,University of Karachi,1,90,BS - Sociology,null,60,Bachelor,Sociology
+2,University of Karachi,1,91,BS - Software Engineering,78500,79,Bachelor,Software Engineering
+2,University of Karachi,1,92,B.Sc. [Hons] - Space Sciences,39000,49.64,Bachelor,Space Sciences
+2,University of Karachi,1,93,BS - Sports Business Management,75000,59,Bachelor,Sports Business
+2,University of Karachi,1,94,BS - Statistics,34500,45.27,Bachelor,Statistics
+2,University of Karachi,1,95,BS - Supply Chain Management,null,null,Bachelor,Supply Chain Management
+2,University of Karachi,1,96,BS - Urdu,23500,45,Bachelor,Urdu
+2,University of Karachi,1,97,BS - Usuluddin [Islamic Studies],null,null,Bachelor,Islamic Studies
+2,University of Karachi,1,98,BS - Women Studies,28500,45.09,Bachelor,Women Studies
+2,University of Karachi,1,99,BS - Zoology,34500,69.09,Bachelor,Zoology
+2,University of Karachi,1,100,MA - Administrative Sciences,null,null,Master,Administrative Sciences
+2,University of Karachi,1,101,M.Sc. - Agriculture & Agribusiness Management,71000,null,Master,Agriculture
+2,University of Karachi,1,102,M.Sc. - Applied Chemistry & Chemical Technology,39000,null,Master,Chemistry
+2,University of Karachi,1,103,M.Sc. - Applied Mathematics,47500,null,Master,Applied Mathematics
+2,University of Karachi,1,104,M.Sc. - Applied Physics,34500,null,Master,Applied Physics
+2,University of Karachi,1,105,M.Sc. - Applied Statistics,null,null,Master,Applied Statistics
+2,University of Karachi,1,106,MA - Arabic,null,null,Master,Arabic
+2,University of Karachi,1,107,MA - Bengali,null,null,Master,Bengali
+2,University of Karachi,1,108,M.Sc. - Biochemistry,39000,null,Master,Biochemistry
+2,University of Karachi,1,109,M.Sc. - Biotechnology,null,null,Master,Biotechnology
+2,University of Karachi,1,110,M.Sc. - Botany,34500,null,Master,Botany
+2,University of Karachi,1,111,M.Sc. - Chemistry,39000,null,Master,Chemistry
+2,University of Karachi,1,112,M.Com. - Commerce,null,null,Master,Commerce
+2,University of Karachi,1,113,MCS - Computer Science,null,null,Master,Computer Science
+2,University of Karachi,1,114,M.Sc. - Criminological Sciences,53000,null,Master,Criminology
+2,University of Karachi,1,115,M.Sc. - Economics,null,null,Master,Economics
+2,University of Karachi,1,116,MA - Economics & Finance,null,null,Master,Economics
+2,University of Karachi,1,117,M.Ed. - Education,31000,null,Master,Education
+2,University of Karachi,1,118,M.Sc. - Education [health & Physical],34500,null,Master,Education
+2,University of Karachi,1,119,MA - Education [special],31000,null,Master,Education
+2,University of Karachi,1,120,MA - English,null,null,Master,English Literature
+2,University of Karachi,1,121,M.Sc. - Environmental Sciences,null,null,Master,Environmental Sciences
+2,University of Karachi,1,122,MA - European Studies,null,null,Master,European Studies
+2,University of Karachi,1,123,MA - General History,null,null,Master,General History
+2,University of Karachi,1,124,M.Sc. - Genetics,null,null,Master,Genetics
+2,University of Karachi,1,125,M.Sc. - Geography,null,null,Master,Geography
+2,University of Karachi,1,126,M.Sc. - Geology,null,null,Master,Geology
+2,University of Karachi,1,127,MA - History,null,null,Master,History
+2,University of Karachi,1,128,M.Sc. - Human Resources Management,null,null,Master,Human Resources Management
+2,University of Karachi,1,129,M.Sc. - Industrial & Business Mathematics,47500,null,Master,Mathematics
+2,University of Karachi,1,130,MA - International Relations,null,null,Master,International Relations
+2,University of Karachi,1,131,MA - Iqbalyat,null,null,Master,Iqbalyat
+2,University of Karachi,1,132,MBF - Islamic Banking & Finance,null,null,Master,Islamic Banking
+2,University of Karachi,1,133,MA - Islamic History,null,null,Master,Islamic History
+2,University of Karachi,1,134,MA - Islamic Learning,null,null,Master,Islamic Studies
+2,University of Karachi,1,135,MLS - Library & Information Science,null,null,Master,Library & Information Science
+2,University of Karachi,1,136,M.Sc. - Marine Sciences,34500,null,Master,Marine Sciences
+2,University of Karachi,1,137,MA - Mass Communication,null,null,Master,Mass Communication
+2,University of Karachi,1,138,M.Sc. - Mathematical Sciences,null,null,Master,Mathematical Sciences
+2,University of Karachi,1,139,M.Sc. - Microbiology,39000,null,Master,Microbiology
+2,University of Karachi,1,140,MA - Pakistan Studies,null,null,Master,Pakistan Studies
+2,University of Karachi,1,141,MA - Persian,null,null,Master,Persian
+2,University of Karachi,1,142,M.Sc. - Petroleum Technology,null,null,Master,Petroleum Technology
+2,University of Karachi,1,143,M.Sc. - Pharmaceutics,null,null,Master,Pharmaceutics
+2,University of Karachi,1,144,M.Sc. - Pharmacognosy,null,null,Master,Pharmacognosy
+2,University of Karachi,1,145,MA - Pharmacology,null,null,Master,Pharmacology
+2,University of Karachi,1,146,MA - Philosophy,null,null,Master,Philosophy
+2,University of Karachi,1,147,M.Sc. - Physics,34500,null,Master,Physics
+2,University of Karachi,1,148,M.Sc. - Physiology,39000,null,Master,Physiology
+2,University of Karachi,1,149,MA - Political Science,null,null,Master,Political Science
+2,University of Karachi,1,150,MA - Population Science,null,null,Master,Population Science
+2,University of Karachi,1,151,MA - Psychology,null,null,Master,Psychology
+2,University of Karachi,1,152,MPA - Public Administration,null,null,Master,Public Administration
+2,University of Karachi,1,153,MA - Public Policy,null,null,Master,Public Policy
+2,University of Karachi,1,154,MA - Quraan & Sunnah,null,null,Master,Quran & Sunnah
+2,University of Karachi,1,155,MA - Sindhi,null,null,Master,Sindhi
+2,University of Karachi,1,156,MA - Social Work,null,null,Master,Social Work
+2,University of Karachi,1,157,M.Sc. - Sociology,null,null,Master,Sociology
+2,University of Karachi,1,158,M.Sc. - Space Sciences,null,null,Master,Space Sciences
+2,University of Karachi,1,159,M.Sc. - Statistics,null,null,Master,Statistics
+2,University of Karachi,1,160,M.Sc. - Supply Chain Management,null,null,Master,Supply Chain Management
+2,University of Karachi,1,161,MA - Transport Management,null,null,Master,Transport Management
+2,University of Karachi,1,162,MA - Urdu,null,null,Master,Urdu
+2,University of Karachi,1,163,MA - Usuluddin [islamic Studies],null,null,Master,Islamic Studies
+2,University of Karachi,1,164,MA - Women Studies,null,null,Master,Women Studies
+2,University of Karachi,1,165,M.Sc. - Zoology,null,null,Master,Zoology
+3,Iqra University,1,166,BS -Computer Sciences,null,null,Bachelor,Computer Science
+3,Iqra University,1,167,BS- Software Engineering,null,null,Bachelor,Software Engineering
+3,Iqra University,1,168,BS - Advertising,null,null,Bachelor,Advertising
+3,Iqra University,1,169,BS - Animation,null,null,Bachelor,Animation
+3,Iqra University,1,170,BS - Artificial Intelligence,102400,null,Bachelor,Artificial Intelligence
+3,Iqra University,1,171,BS - Biochemistry,39000,76.45,Bachelor,Biochemistry
+3,Iqra University,1,172,BBA - Business Administration,117300,null,Bachelor,Business Administration
+3,Iqra University,1,173,BS - Business Analytics,117300,null,Bachelor,Business Analytics
+3,Iqra University,1,174,BE - Computer Engineering,null,null,Bachelor,Computer Engineering
+3,Iqra University,1,175,BS - Computer Science,102400,null,Bachelor,Computer Science
+3,Iqra University,1,176,BS - Cyber Security,102400,null,Bachelor,Cyber Security
+3,Iqra University,1,177,BS - Data Science,null,null,Bachelor,Data Science
+3,Iqra University,1,178,BS - Digital Marketing,117300,null,Bachelor,Digital Marketing
+3,Iqra University,1,179,BS - Economics & Finance,117300,null,Bachelor,Economics & Finance
+3,Iqra University,1,180,B.ED - Education,31000,null,Bachelor,Education
+3,Iqra University,1,181,BE - Electrical,null,null,Bachelor,Electrical Engineering
+3,Iqra University,1,182,BE - Software Engineering,102400,null,Bachelor,Software Engineering
+3,Iqra University,1,183,BS - English,null,null,Bachelor,English
+3,Iqra University,1,184,BS - Entrepreneurship,null,null,Bachelor,Entrepreneurship
+3,Iqra University,1,185,B.Sc. [Hons] - Fashion Design,null,null,Bachelor,Fashion Design
+3,Iqra University,1,186,BS - Film/TV,null,null,Bachelor,Film/TV Production
+3,Iqra University,1,187,BS - Finance & Accounting,117300,null,Bachelor,Finance & Accounting
+3,Iqra University,1,188,BS - Human Diet & Nutrition,null,null,Bachelor,Human Diet & Nutrition
+3,Iqra University,1,189,BS - Information Security,null,null,Bachelor,Information Security
+3,Iqra University,1,190,BS - Entrepreneurship,117300,null,Bachelor,Entrepreneurship
+3,Iqra University,1,191,BS - Media Sciences,null,null,Bachelor,Media Sciences
+3,Iqra University,1,192,BS - Microbiology,39000,null,Bachelor,Microbiology
+3,Iqra University,1,193,BS - Nursing,null,null,Bachelor,Nursing
+3,Iqra University,1,194,PHARM.D - Pharmacy,null,null,Bachelor,Pharmacy
+3,Iqra University,1,195,DPT - Physical Therapy,null,null,Bachelor,Physical Therapy
+3,Iqra University,1,196,BS - Psychology,90210,null,Bachelor,Psychology
+3,Iqra University,1,197,BS - Clinical Psychology,90210,null,Bachelor,Clinical Psychology
+3,Iqra University,1,198,BS - Software Engineering,null,null,Bachelor,Software Engineering
+3,Iqra University,1,199,BS - Telecommunication,null,null,Bachelor,Telecommunication
+3,Iqra University,1,200,B.Sc. [Hons] - Textile Design,null,null,Bachelor,Textile Design
+3,Iqra University,1,201,MS - Advertising,null,null,Master,Advertising
+3,Iqra University,1,202,M.Phil. - Business Administration,null,null,Master,Business Administration
+3,Iqra University,1,203,MBA - Business Administration,null,null,Master,Business Administration
+3,Iqra University,1,204,MS - Computer Science,80050,null,Master,Computer Science
+3,Iqra University,1,205,MS - Data Science,80050,null,Master,Data Science
+3,Iqra University,1,206,MS - Digital Marketing,80050,null,Master,Digital Marketing
+3,Iqra University,1,207,M.Phil. - Education,31000,null,Master,Education
+3,Iqra University,1,208,MS - Electrical,null,null,Master,Electrical
+3,Iqra University,1,209,M.Phil. - English,null,null,Master,English
+3,Iqra University,1,210,MS - Entrepreneurship,null,null,Master,Entrepreneurship
+3,Iqra University,1,211,MS - Film/TV,null,null,Master,Film
+3,Iqra University,1,212,MSIT - Finance & Technology,80050,null,Master,Finance
+3,Iqra University,1,213,MS - Human Resources Management,80050,null,Master,Human Resources
+3,Iqra University,1,214,MS - Information Technology,80050,null,Master,Information
+3,Iqra University,1,215,MSIT - Islamic Banking & Finance,null,null,Master,Islamic Banking
+3,Iqra University,1,216,MS - Media Sciences,80050,null,Master,Media
+3,Iqra University,1,217,MS - Software Engineering,80050,null,Master,Software
+3,Iqra University,1,218,MS - Telecommunication,null,null,Master,Telecommunication
+4,Institute of Business Management (IoBM),6,219,"BS - Accounting, Finance & Law",142480,null,Bachelor,Accounting
+4,Institute of Business Management (IoBM),6,220,BS - Actuarial Sciences & Risk Management,142480,50,Bachelor,Actuarial Sciences
+4,Institute of Business Management (IoBM),6,221,BBA (H) - Business Administration,142480,null,Bachelor,Business
+4,Institute of Business Management (IoBM),6,222,BS - Business Psychology,142480,null,Bachelor,Business Psychology
+4,Institute of Business Management (IoBM),6,223,BS - Computer Science,142480,null,Bachelor,Computer Science
+4,Institute of Business Management (IoBM),6,224,BS - Data Science,142480,null,Bachelor,Data Science
+4,Institute of Business Management (IoBM),6,225,BS - Economics & Finance,142480,null,Bachelor,Economics
+4,Institute of Business Management (IoBM),6,226,BS - Economics & Law,142480,null,Bachelor,Economics
+4,Institute of Business Management (IoBM),6,227,BS - Economics & Mathematics,142480,null,Bachelor,Economics
+4,Institute of Business Management (IoBM),6,228,BS (HONS) - Education,142480,null,Bachelor,Education
+4,Institute of Business Management (IoBM),6,229,BS - Education,142480,null,Bachelor,Education
+4,Institute of Business Management (IoBM),6,230,BE - Electrical,142480,null,Bachelor,Electrical
+4,Institute of Business Management (IoBM),6,231,BS - Entrepreneurship,142480,null,Bachelor,Entrepreneurship
+4,Institute of Business Management (IoBM),6,232,BS - Finance & Accounting,142480,null,Bachelor,Finance
+4,Institute of Business Management (IoBM),6,233,BS - Industrial Management,142480,null,Bachelor,Industrial
+4,Institute of Business Management (IoBM),6,234,BS - International Relations,142480,null,Bachelor,International
+4,Institute of Business Management (IoBM),6,235,"BS - Logistics, Supply Chain Management",142480,null,Bachelor,Logistics
+4,Institute of Business Management (IoBM),6,236,BS - Mathematics,142480,null,Bachelor,Mathematics
+4,Institute of Business Management (IoBM),6,237,BS - Media Studies,142480,null,Bachelor,Media
+4,Institute of Business Management (IoBM),6,238,BS - Psychology,142480,null,Bachelor,Psychology
+4,Institute of Business Management (IoBM),6,239,BS - Software Engineering,142480,null,Bachelor,Software
+4,Institute of Business Management (IoBM),6,240,BS - Technology Management,142480,null,Bachelor,Technology
+4,Institute of Business Management (IoBM),6,241,MBA - Business Administration,152830,null,Master,Business
+4,Institute of Business Management (IoBM),6,242,M.Phil. - Business Management,null,null,Master,Business
+4,Institute of Business Management (IoBM),6,243,M.Phil. - Computer Science,null,null,Master,Computer Science
+4,Institute of Business Management (IoBM),6,244,MS - Economics,152830,null,Master,Economics
+4,Institute of Business Management (IoBM),6,245,M.Phil. - Education,null,null,Master,Education
+4,Institute of Business Management (IoBM),6,246,MS - Education Management,152830,null,Master,Education
+4,Institute of Business Management (IoBM),6,247,MS - Electrical,152830,null,Master,Electrical
+4,Institute of Business Management (IoBM),6,248,MBA - Energy & Environment,152830,null,Master,Energy
+4,Institute of Business Management (IoBM),6,249,MS - Engineering Management,152830,null,Master,Engineering
+4,Institute of Business Management (IoBM),6,250,M.Phil. - English,null,null,Master,English
+4,Institute of Business Management (IoBM),6,251,MS - Entrepreneurship,152830,null,Master,Entrepreneurship
+4,Institute of Business Management (IoBM),6,252,MBA - Finance & Risk Management,152830,null,Master,Finance
+4,Institute of Business Management (IoBM),6,253,MBA - Health Care & Hospital Management,152830,null,Master,Health Care
+4,Institute of Business Management (IoBM),6,254,MBA - Industrial Management,152830,null,Master,Industrial
+4,Institute of Business Management (IoBM),6,255,"MBA - Logistics, Supply Chain Management",152830,null,Master,Logistics
+4,Institute of Business Management (IoBM),6,256,MS - Mathematics,152830,null,Master,Mathematics
+4,Institute of Business Management (IoBM),6,257,MBA - Media Management,152830,null,Master,Media Management
+4,Institute of Business Management (IoBM),6,258,M.Phil. - Organizational Psychology,null,null,Master,Organizational Psychology
+4,Institute of Business Management (IoBM),6,259,MS - Statistics & Scientific Computing,152830,null,Master,Statistics
+5,NED University of Engineering and Technology,1,260,BS - Applied Physics,43000,55,Bachelor,Applied Physics
+5,NED University of Engineering and Technology,1,261,B.ARCH - Architecture,43000,55,Bachelor,Architecture
+5,NED University of Engineering and Technology,1,262,BE - Automotive Engineering,43000,55,Bachelor,Automotive Engineering
+5,NED University of Engineering and Technology,1,263,BE - Bio-medical,43000,55,Bachelor,Biomedical Engineering
+5,NED University of Engineering and Technology,1,264,BE - Chemical,43000,55,Bachelor,Chemical Engineering
+5,NED University of Engineering and Technology,1,265,BE - Civil,43000,55,Bachelor,Civil Engineering
+5,NED University of Engineering and Technology,1,266,BS - Computational Finance,43000,55,Bachelor,Computational Finance
+5,NED University of Engineering and Technology,1,267,BS - Computer Science,43000,55,Bachelor,Computer Science
+5,NED University of Engineering and Technology,1,268,BE - Computer System,43000,55,Bachelor,Computer Systems
+5,NED University of Engineering and Technology,1,269,BE - Construction Engineering & Management,43000,55,Bachelor,Construction Engineering
+5,NED University of Engineering and Technology,1,270,BS - Development Studies,43000,55,Bachelor,Development Studies
+5,NED University of Engineering and Technology,1,271,BS - Economics & Finance,43000,55,Bachelor,Economics & Finance
+5,NED University of Engineering and Technology,1,272,BE - Electrical,43000,55,Bachelor,Electrical Engineering
+5,NED University of Engineering and Technology,1,273,BE - Electronics,43000,55,Bachelor,Electronics Engineering
+5,NED University of Engineering and Technology,1,274,BS - English Linguistics,43000,55,Bachelor,English Linguistics
+5,NED University of Engineering and Technology,1,275,BE - Food Engineering,43000,55,Bachelor,Food Engineering
+5,NED University of Engineering and Technology,1,276,BE - Industrial & Manufacturing,43000,55,Bachelor,Industrial Engineering
+5,NED University of Engineering and Technology,1,277,BS - Industrial Chemistry,43000,55,Bachelor,Industrial Chemistry
+5,NED University of Engineering and Technology,1,278,BS - Management Sciences,43000,55,Bachelor,Management Sciences
+5,NED University of Engineering and Technology,1,279,BE - Materials Engineering,43000,55,Bachelor,Materials Engineering
+5,NED University of Engineering and Technology,1,280,BE - Mechanical,43000,55,Bachelor,Mechanical Engineering
+5,NED University of Engineering and Technology,1,281,BE - Metallurgy & Materials,43000,55,Bachelor,Metallurgy & Materials
+5,NED University of Engineering and Technology,1,282,BE - Petroleum,43000,55,Bachelor,Petroleum Engineering
+5,NED University of Engineering and Technology,1,283,BE - Polymer & Petrochemical,43000,55,Bachelor,Polymer & Petrochemical
+5,NED University of Engineering and Technology,1,284,BE - Software Engineering,43000,55,Bachelor,Software Engineering
+5,NED University of Engineering and Technology,1,285,BE - Telecommunication,43000,55,Bachelor,Telecommunication
+5,NED University of Engineering and Technology,1,286,BE - Textile Engineering,43000,55,Bachelor,Textile Engineering
+5,NED University of Engineering and Technology,1,287,BS - Textile Science,43000,55,Bachelor,Textile Science
+5,NED University of Engineering and Technology,1,288,BE - Urban & Regional Planning,43000,55,Bachelor,Urban & Regional Planning
+5,NED University of Engineering and Technology,1,289,MS - Applied Linguistics,81200,null,Master,Applied Linguistics
+5,NED University of Engineering and Technology,1,290,MS - Applied Mathematics,81200,null,Master,Applied Mathematics
+5,NED University of Engineering and Technology,1,291,M.ARCH - Architecture,81200,null,Master,Architecture
+5,NED University of Engineering and Technology,1,292,ME - Automotive Engineering,81200,null,Master,Automotive Engineering
+5,NED University of Engineering and Technology,1,293,ME - Bio-medical,81200,null,Master,Biomedical Engineering
+5,NED University of Engineering and Technology,1,294,ME - Chemical,81200,null,Master,Chemical Engineering
+5,NED University of Engineering and Technology,1,295,MEM - Chemical & Process Management,81200,null,Master,Chemical & Process Management
+5,NED University of Engineering and Technology,1,296,ME - Civil,81200,null,Master,Civil Engineering
+5,NED University of Engineering and Technology,1,297,ME - Computational Sciences & Engineering,81200,null,Master,Computational Sciences
+5,NED University of Engineering and Technology,1,298,ME - Computer Network & Security,81200,null,Master,Computer Network & Security
+5,NED University of Engineering and Technology,1,299,MS - Computer Science & Information Technology,81200,null,Master,Computer Science & IT
+5,NED University of Engineering and Technology,1,300,ME - Computer System,81200,null,Master,Computer Systems
+5,NED University of Engineering and Technology,1,301,MEM - Construction Management,81200,null,Master,Construction Management
+5,NED University of Engineering and Technology,1,302,ME - Control System,81200,null,Master,Control System
+5,NED University of Engineering and Technology,1,303,MS - Data Science,81200,null,Master,Data Science
+5,NED University of Engineering and Technology,1,304,ME - Design,81200,null,Master,Design
+5,NED University of Engineering and Technology,1,305,MS - Disaster Management,81200,null,Master,Disaster Management
+5,NED University of Engineering and Technology,1,306,MS - Economics & Finance,81200,null,Master,Economics & Finance
+5,NED University of Engineering and Technology,1,307,ME - Electrical,81200,null,Master,Electrical Engineering
+5,NED University of Engineering and Technology,1,308,ME - Electrical Power,81200,null,Master,Electrical Engineering
+5,NED University of Engineering and Technology,1,309,ME - Electronics,81200,null,Master,Electronics Engineering
+5,NED University of Engineering and Technology,1,310,MEM - Energy & Plant Management,81200,null,Master,Energy Management
+5,NED University of Engineering and Technology,1,311,MEM - Energy Management,81200,null,Master,Energy Management
+5,NED University of Engineering and Technology,1,312,MEM - Engineering Management,81200,null,Master,Engineering Management
+5,NED University of Engineering and Technology,1,313,ME - Environmental Engineering,81200,null,Master,Environmental Engineering
+5,NED University of Engineering and Technology,1,314,MEM - Environmental Management,81200,null,Master,Environmental Management
+5,NED University of Engineering and Technology,1,315,ME - Geotechnical Engineering,81200,null,Master,Geotechnical Engineering
+5,NED University of Engineering and Technology,1,316,MS - Industrial Chemistry,81200,null,Master,Industrial Chemistry
+5,NED University of Engineering and Technology,1,317,ME - Industrial Electronics,81200,null,Master,Industrial Electronics
+5,NED University of Engineering and Technology,1,318,MEM - Industrial Management,81200,null,Master,Industrial Management
+5,NED University of Engineering and Technology,1,319,MS - Information Security,81200,null,Master,Information Security
+5,NED University of Engineering and Technology,1,320,ME - Manufacturing,81200,null,Master,Manufacturing Engineering
+5,NED University of Engineering and Technology,1,321,ME - Materials Engineering,81200,null,Master,Materials Engineering
+5,NED University of Engineering and Technology,1,322,ME - Mechanical,81200,null,Master,Mechanical Engineering
+5,NED University of Engineering and Technology,1,323,ME - Mechatronics,81200,null,Master,Mechatronics Engineering
+5,NED University of Engineering and Technology,1,324,ME - Petroleum,81200,null,Master,Petroleum Engineering
+5,NED University of Engineering and Technology,1,325,MS - Physics,81200,null,Master,Physics
+5,NED University of Engineering and Technology,1,326,ME - Polymer,81200,null,Master,Polymer Engineering
+5,NED University of Engineering and Technology,1,327,MEM - Quality Management,81200,null,Master,Quality Management
+5,NED University of Engineering and Technology,1,328,MS - Real State Management,81200,null,Master,Real Estate Management
+5,NED University of Engineering and Technology,1,329,ME - Renewable Energy Engineering,81200,null,Master,Renewable Energy Engineering
+5,NED University of Engineering and Technology,1,330,ME - Structural Earthquake Engineering,81200,null,Master,Structural Engineering
+5,NED University of Engineering and Technology,1,331,MEM - Supply Chain Management,81200,null,Master,Supply Chain Management
+5,NED University of Engineering and Technology,1,332,MS - Telecom Systems,81200,null,Master,Telecom Systems
+5,NED University of Engineering and Technology,1,333,ME - Telecommunication,81200,null,Master,Telecommunication
+5,NED University of Engineering and Technology,1,334,ME - Textile Engineering,81200,null,Master,Textile Engineering
+5,NED University of Engineering and Technology,1,335,MS - Textile Management,81200,null,Master,Textile Management
+5,NED University of Engineering and Technology,1,336,ME - Transportation Engineering,81200,null,Master,Transportation Engineering
+5,NED University of Engineering and Technology,1,337,MEM - Transportation Infrastructure Management,81200,null,Master,Transportation Management
+5,NED University of Engineering and Technology,1,338,MURP - Urban & Regional Planning,81200,null,Master,Urban & Regional Planning
+5,NED University of Engineering and Technology,1,339,MEM - Water Resource Management,81200,null,Master,Water Resource Management
+5,NED University of Engineering and Technology,1,340,ME - Water Resources Engineering,81200,null,Master,Water Resources Engineering
+6,Sir Syed University of Engineering and Technology,1,341,BS- Computer Science,133700,null,Bachelor,Computer Science
+6,Sir Syed University of Engineering and Technology,1,342,BS - Bio-medical,65100,null,Bachelor,Biomedical Engineering
+6,Sir Syed University of Engineering and Technology,1,343,BS - Biomedical Sciences,65100,50,Bachelor,Biomedical Sciences
+6,Sir Syed University of Engineering and Technology,1,344,BS - Biotechnology,92750,50,Bachelor,Biotechnology
+6,Sir Syed University of Engineering and Technology,1,345,BBA - Business Administration,72800,45,Bachelor,Business Administration
+6,Sir Syed University of Engineering and Technology,1,346,BS - Civil Engineering,133700,50,Bachelor,Civil Engineering
+6,Sir Syed University of Engineering and Technology,1,347,B.Sc. - Civil Technology,57900,50,Bachelor,Civil Engineering
+6,Sir Syed University of Engineering and Technology,1,348,BS - Clinical Psychology,120000,50,Bachelor,Clinical Psychology
+6,Sir Syed University of Engineering and Technology,1,349,BS - Computer Engineering,133700,60,Bachelor,Computer Engineering
+6,Sir Syed University of Engineering and Technology,1,350,BS - Computer Technology,172800,50,Bachelor,Computer Technology
+6,Sir Syed University of Engineering and Technology,1,351,BS - Cyber Security,138100,50,Bachelor,Cyber Security
+6,Sir Syed University of Engineering and Technology,1,352,BS - Dairy Science,223500,50,Bachelor,Dairy Science
+6,Sir Syed University of Engineering and Technology,1,353,BS - Economics & Mathematics,83000,50,Bachelor,Economics & Mathematics
+6,Sir Syed University of Engineering and Technology,1,354,B.Sc. [Engg.] - Electrical,172800,60,Bachelor,Electrical Engineering
+6,Sir Syed University of Engineering and Technology,1,355,B.Sc. - Electrical Technology,57900,50,Bachelor,Electrical Technology
+6,Sir Syed University of Engineering and Technology,1,356,BS - Electronics,57900,50,Bachelor,Electronics
+6,Sir Syed University of Engineering and Technology,1,357,BS(TECHNOLOGY) - Electronics Technology,57900,50,Bachelor,Electronics Technology
+6,Sir Syed University of Engineering and Technology,1,358,BS - Food Science & Technology,172800,50,Bachelor,Food Science
+6,Sir Syed University of Engineering and Technology,1,359,BS - Information Technology,133700,50,Bachelor,Information Technology
+6,Sir Syed University of Engineering and Technology,1,360,BS - Mobile Communication Systems,62900,50,Bachelor,Mobile Communication
+6,Sir Syed University of Engineering and Technology,1,361,B.Sc. [Engg.] - Software Engineering,57900,60,Bachelor,Software Engineering
+6,Sir Syed University of Engineering and Technology,1,362,BS - Telecommunication,78000,50,Bachelor,Telecommunication
+6,Sir Syed University of Engineering and Technology,1,363,MS - Bio-medical,78000,2,Master,Bio-medical
+6,Sir Syed University of Engineering and Technology,1,364,MBA - Business Administration,78000,2,Master,Business Administration
+6,Sir Syed University of Engineering and Technology,1,365,MS - Civil,78000,2,Master,Civil Engineering
+6,Sir Syed University of Engineering and Technology,1,366,MS - Computer Engineering,78000,2,Master,Computer Engineering
+6,Sir Syed University of Engineering and Technology,1,367,MS - Computer Science,78000,2,Master,Computer Science
+6,Sir Syed University of Engineering and Technology,1,368,MS - Electrical,78000,2,Master,Electrical Engineering
+6,Sir Syed University of Engineering and Technology,1,369,MS - Electronics,78000,2,Master,Electronics Engineering
+6,Sir Syed University of Engineering and Technology,1,370,MS - Mathematics,78000,2,Master,Mathematics
+6,Sir Syed University of Engineering and Technology,1,371,MS - Software Engineering,78000,2,Master,Software Engineering
+6,Sir Syed University of Engineering and Technology,1,372,MS - Telecommunication,78000,2,Master,Telecommunication
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,373,BS - Artificial Intelligence,125800,50,Bachelor,Artificial Intelligence
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,374,BS - Bio-science,78540,50,Bachelor,Bio-science
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,375,BS - Biotechnology,78540,50,Bachelor,Biotechnology
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,376,BBA - Business Administration,142200,50,Bachelor,Business Administration
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,377,BA [HONS] - Business Studies,null,50,Bachelor,Business Studies
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,378,BS - Computer Science,145800,50,Bachelor,Computer Science
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,379,B.ED - Education,57600,50,Bachelor,Education
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,380,BS - Educational Psychology,78390,50,Bachelor,Educational Psychology
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,381,BS - Entrepreneurship,133200,50,Bachelor,Entrepreneurship
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,382,BS - Finance & Accounting,145800,50,Bachelor,Finance & Accounting
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,383,LLB - Law,null,50,Bachelor,Law
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,384,BE - Mechatronics,96000,60,Bachelor,Mechatronics
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,385,BS - Media Sciences,162000,50,Bachelor,Media Sciences
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,386,BS - Public Health,75480,50,Bachelor,Public Health
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,387,BS - Social Sciences,120600,50,Bachelor,Social Sciences
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,388,BS - Software Engineering,145800,50,Bachelor,Software Engineering
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,389,MS - Advertising,114000,2,Master,Advertising
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,390,MS - Bio-science,70560,2,Master,Bio-science
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,391,MS - Biotechnology,70560,2,Master,Biotechnology
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,392,MBA - Business Administration (1.5 Years),106800,2.5,Master,Business Administration
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,393,MBA - Business Administration (2-2.5 Years),160200,2.5,Master,Business Administration
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,394,MS - Computer Science,66600,2,Master,Computer Science
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,395,MS - Cyber Security,66600,2,Master,Cyber Security
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,396,MS - Data Science,70200,2,Master,Data Science
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,397,MS - Economics,93600,2,Master,Economics
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,398,MS - Educational Leadership & Management,82560,2,Master,Educational Leadership
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,399,MS - International Relations,88920,2,Master,International Relations
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,400,MS - Management Sciences,93600,2,Master,Management Sciences
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,401,MS - Mechatronics,58680,2,Master,Mechatronics
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,402,MS - Media Studies,108300,2,Master,Media Studies
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,403,MS - Project Management,123000,2.5,Master,Project Management
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,404,MS - Psychology,88920,2,Master,Psychology
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,405,MS - Public Health,96660,2,Master,Public Health
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,406,MS - Social Sciences,88920,2,Master,Social Sciences
+7,Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST),1,407,MS - Sociology,88920,2,Master,Sociology
+8,IBA,2,408,BBA - Business Administration,237500,65,Bachelor,Business Administration
+8,IBA,2,409,BCS - Computer Science,199500,65,Bachelor,Computer Science
+8,IBA,2,410,BS - Economics,199500,65,Bachelor,Economics
+8,IBA,2,411,BS - Economics & Mathematics,199500,65,Bachelor,Economics
+8,IBA,2,412,BS - Finance & Accounting,237500,65,Bachelor,Finance
+8,IBA,2,413,BS - Mathematics,199500,65,Bachelor,Mathematics
+8,IBA,2,414,BS - Social Sciences & Liberal Arts,199500,65,Bachelor,Social Sciences
+8,IBA,2,415,MBA - Business Administration,260000,2.5,Master,Business Administration
+8,IBA,2,416,MS - Computer Science,133500,2.5,Master,Computer Science
+8,IBA,2,417,MS - Data Science,103250,2.5,Master,Data Science
+8,IBA,2,418,MS - Development Studies,122500,2.5,Master,Development Studies
+8,IBA,2,419,MS - Economics,133500,2.5,Master,Economics
+8,IBA,2,420,MS - Finance,163750,2.5,Master,Finance
+8,IBA,2,421,MS - Islamic Banking & Finance,173000,2.5,Master,Islamic Banking
+8,IBA,2,422,MS - Journalism,133500,2.5,Master,Journalism
+8,IBA,2,423,MS - Management,133500,2.5,Master,Management
+8,IBA,2,424,MS - Marketing,133500,2.5,Master,Marketing
+8,IBA,2,425,MS - Mathematics,133500,2.5,Master,Mathematics
+9,Muhammad Ali Jinnah University,1,426,BS - Artificial Intelligence,152000,50,Bachelor,Artificial Intelligence
+9,Muhammad Ali Jinnah University,1,427,BS - Bioinformatics,153000,50,Bachelor,Bioinformatics
+9,Muhammad Ali Jinnah University,1,428,BS - Biotechnology,152000,50,Bachelor,Biotechnology
+9,Muhammad Ali Jinnah University,1,429,BBA - Business Administration,153000,50,Bachelor,null
+9,Muhammad Ali Jinnah University,1,430,BS - Chemistry,153000,50,Bachelor,Chemistry
+9,Muhammad Ali Jinnah University,1,431,BS - Computer Science,180500,50,Bachelor,Computer Science
+9,Muhammad Ali Jinnah University,1,432,BE - Computer System,166250,60,Bachelor,Computer Systems
+9,Muhammad Ali Jinnah University,1,433,BS - Digital Media,105000,50,Bachelor,Digital Media
+9,Muhammad Ali Jinnah University,1,434,BS - Education,105000,50,Bachelor,Education
+9,Muhammad Ali Jinnah University,1,435,BE - Electrical,156750,60,Bachelor,Electrical Engineering
+9,Muhammad Ali Jinnah University,1,436,BS - English,105000,50,Bachelor,English
+9,Muhammad Ali Jinnah University,1,437,BS - Finance & Accounting,153000,50,Bachelor,Finance
+9,Muhammad Ali Jinnah University,1,438,BS - Finance & Technology,153000,50,Bachelor,Finance
+9,Muhammad Ali Jinnah University,1,439,BS - Psychology,153000,50,Bachelor,Psychology
+9,Muhammad Ali Jinnah University,1,440,BS - Software Engineering,180500,50,Bachelor,Software Engineering
+9,Muhammad Ali Jinnah University,1,441,BS - Supply Chain Management,153000,50,Bachelor,Supply Chain Management
+9,Muhammad Ali Jinnah University,1,442,MS - Bioinformatics,120000,2,Master,Bioinformatics
+9,Muhammad Ali Jinnah University,1,443,MS - Biotechnology,120000,2,Master,Biotechnology
+9,Muhammad Ali Jinnah University,1,444,MBA - Business Administration,108000,2,Master,Business Administration
+9,Muhammad Ali Jinnah University,1,445,MS - Computer Science,120000,2,Master,Computer Science
+9,Muhammad Ali Jinnah University,1,446,MS - Economics & Finance,108000,2,Master,Economics
+9,Muhammad Ali Jinnah University,1,447,MS - Electrical,120000,2,Master,Electrical Engineering
+9,Muhammad Ali Jinnah University,1,448,MS - Management Sciences,108000,2,Master,Management Sciences
+9,Muhammad Ali Jinnah University,1,449,MS - Project Management,108000,2,Master,Project Management
+9,Muhammad Ali Jinnah University,1,450,MS - Software Engineering,120000,2,Master,Software Engineering
+10,Hamdard University,1,451,BSc-CET - Bachelor of Science in Civil Engineering Technology,55000,50,Bachelor,Civil Engineering
+10,Hamdard University,1,452,BSc-EET - Bachelor of Science in Electrical Engineering Technology,55000,50,Bachelor,Electrical Engineering
+10,Hamdard University,1,453,BSc-MET - Bachelor of Science in Mechanical Engineering Technology,55000,50,Bachelor,Mechanical Engineering
+10,Hamdard University,1,454,BS-AI - Bachelor’s of Artificial Intelligence,83200,50,Bachelor,Artificial Intelligence
+10,Hamdard University,1,455,BS-BT - Bachelor’s of Bio-Technology,54500,50,Bachelor,Biotechnology
+10,Hamdard University,1,456,BBA - Bachelor’s of Business Administration,95000,50,Bachelor,Business Administration
+10,Hamdard University,1,457,BBA - Bachelor’s of Business Administration,100500,50,Bachelor,Business Administration
+10,Hamdard University,1,458,BCA - Bachelor’s of Computer Arts,null,50,Bachelor,Computer Arts
+10,Hamdard University,1,459,BS-CS - Bachelor’s of Computer Science,104000,50,Bachelor,Computer Science
+10,Hamdard University,1,460,BDS - Bachelor’s of Dental Surgery,1426000,50,Bachelor,Dental Surgery
+10,Hamdard University,1,461,BEMS - Bachelor’s of Eastern Medicine & Surgery,66560,50,Bachelor,Eastern Medicine
+10,Hamdard University,1,462,B.Ed - Bachelor’s of Education,34700,45,Bachelor,Education
+10,Hamdard University,1,463,B.Ed Hons - Bachelor’s of Education Hons,34700,45,Bachelor,Education
+10,Hamdard University,1,464,BS-EET - Bachelor’s of Electronics Engineering Technology,null,50,Bachelor,Electronics Engineering
+10,Hamdard University,1,465,BE-EE - Bachelor’s of Engineering in Electrical Engineering,null,60,Bachelor,Electrical Engineering
+10,Hamdard University,1,466,BE-ME - Bachelor’s of Engineering in Mechanical Engineering,null,60,Bachelor,Mechanical Engineering
+10,Hamdard University,1,467,BS-Eng - Bachelor’s of English,35100,45,Bachelor,English
+10,Hamdard University,1,468,BS-FST - Bachelor’s of Food Science & Technology,58500,50,Bachelor,Food Science
+10,Hamdard University,1,469,BS HND - Bachelor’s of Human Nutrition & Dietetics,73600,50,Bachelor,Human Nutrition
+10,Hamdard University,1,470,BS-IS - Bachelor’s of Islamic Studies,34700,50,Bachelor,Islamic Studies
+10,Hamdard University,1,471,LLB - Bachelor’s of Law,92000,50,Bachelor,Law
+10,Hamdard University,1,472,BS-MLT - Bachelor’s of Medical Laboratory Technology,null,50,Bachelor,Medical Laboratory
+10,Hamdard University,1,473,"MBBS - Bachelor’s of Medicine, Bachelor’s of Surgery",null,50,Bachelor,Medicine
+10,Hamdard University,1,474,BSP - Bachelor’s of Psychology,null,45,Bachelor,Psychology
+10,Hamdard University,1,475,BS PH - Bachelor’s of Public Health,null,50,Bachelor,Public Health
+10,Hamdard University,1,476,BS-SE - Bachelor’s of Software Engineering,104000,50,Bachelor,Software Engineering
+10,Hamdard University,1,477,Pharm-D - Doctor of Pharmacy,141000,50,Bachelor,Pharmacy
+10,Hamdard University,1,478,ADE - Associate Degree in Education,66000,45,Bachelor,Education
+10,Hamdard University,1,479,ADP-A&F - Associate Degree Program in Accounting & Finance,93500,45,Bachelor,Accounting & Finance
+10,Hamdard University,1,480,ADP-B&F - Associate Degree Program in Banking & Finance,null,45,Bachelor,Banking & Finance
+10,Hamdard University,1,481,ADP-BI - Associate Degree Program in Business Informatics,null,45,Bachelor,Business Informatics
+10,Hamdard University,1,482,ADP-DMM - Associate Degree Program in Digital Media Marketing,null,45,Bachelor,Digital Media Marketing
+10,Hamdard University,1,483,ADP-HHM - Associate Degree Program in Healthcare & Hospital Management,null,45,Bachelor,Healthcare Management
+10,Hamdard University,1,484,ADP-IA - Associate Degree Program in Industrial Automation,51950,45,Bachelor,Industrial Automation
+10,Hamdard University,1,485,"ADP-CN, CIS, SD - Associate Degree Programs",null,null,Bachelor,Computer Networks
+10,Hamdard University,1,486,ME-EE - Master of Engineering in Electrical Engineering,68500,2,Master,Electrical Engineering
+10,Hamdard University,1,487,MS-BA - Master of Science in Business Administration,68500,2,Master,Business Administration
+10,Hamdard University,1,488,MBA - Master’s of Business Administration,68000,2,Master,Business Administration
+10,Hamdard University,1,489,MBA - Master’s of Business Administration,105000,2,Master,Computer Science
+10,Hamdard University,1,490,MS-CS - Master’s of Computer Science,null,2,Master,Energy Engineering
+10,Hamdard University,1,491,MS-EE - Master’s of Energy Engineering,null,2,Master,Education
+10,Hamdard University,1,492,M.Phil Edu - Master’s of Philosophy in Education,73500,null,Master,Pharmaceutical Chemistry
+10,Hamdard University,1,493,M.Phil - Masters of Philosophy in Pharmaceutical Chemistry,123500,null,Master,Pharmaceutics
+10,Hamdard University,1,494,M.Phil - Masters of Philosophy in Pharmaceutics,123500,null,Master,Pharmacology
+10,Hamdard University,1,495,M.Phil - Masters of Philosophy in Pharmacology,123500,null,Master,Electrical Engineering
+11,Indus University,1,496,BE Electrical,95000,60,Bachelor,Computer Science
+11,Indus University,1,497,BS Computer Science,99450,50,Bachelor,Software Engineering
+11,Indus University,1,498,BS Software Engineering,99450,50,Bachelor,Engineering Technology
+11,Indus University,1,499,BSc Engineering Technology Electrical,78000,50,Bachelor,Engineering Technology
+11,Indus University,1,500,BSc Engineering Technology Electronics,74000,50,Bachelor,Engineering Technology
+11,Indus University,1,501,BSc Engineering Technology Mechanical,78000,50,Bachelor,Engineering Technology
+11,Indus University,1,502,BSc Engineering Technology Civil,78000,50,Bachelor,Engineering Technology
+11,Indus University,1,503,Bachelor of Business Administration (BBA),105300,50,Bachelor,Business Administration
+11,Indus University,1,504,Bachelor of Fashion Design,118000,50,Bachelor,Fashion Design
+11,Indus University,1,505,Bachelor of Textile Design,118000,50,Bachelor,Textile Design
+11,Indus University,1,506,Bachelor of Interior Design,118000,50,Bachelor,Interior Design
+11,Indus University,1,507,BS Media Science,118000,50,Bachelor,Media Science
+11,Indus University,1,508,MS Mechanical Engineering Technology,64000,2,Master,Mechanical Engineering
+11,Indus University,1,509,MS Electrical Engineering Technology,64000,2,Master,Electrical Engineering
+11,Indus University,1,510,ME Electrical Engineering,82000,2,Master,Electrical Engineering
+11,Indus University,1,511,MS Computer Science,64000,2,Master,Computer Science
+11,Indus University,1,512,MS Media Studies,82000,2,Master,Media Studies
+11,Indus University,1,513,MS Management Science,64000,2,Master,Management Science
+11,Indus University,1,514,MBA (4 Semesters),86004,2,Master,Business Administration
+11,Indus University,1,515,MBA (3 Semesters),86004,2,Master,Business Administration
+12,Jinnah Sindh Medical University,1,516,BBA - Business Administration,40000,50,Bachelor,Business Administration
+12,Jinnah Sindh Medical University,1,517,BS - Cardiac Perfusion,150000,50,Bachelor,Cardiac Perfusion
+12,Jinnah Sindh Medical University,1,518,BS - Cardiovascular Sciences,150000,50,Bachelor,Cardiovascular Sciences
+12,Jinnah Sindh Medical University,1,519,BS - Clinical Laboratory Sciences,150000,50,Bachelor,Clinical Laboratory
+12,Jinnah Sindh Medical University,1,520,BS - Dental Technology,150000,50,Bachelor,Dental Technology
+12,Jinnah Sindh Medical University,1,521,BDS - Dentistry,175000,50,Bachelor,Dentistry
+12,Jinnah Sindh Medical University,1,522,BBA - Hospital & Health Services Management,40000,50,Bachelor,Hospital Management
+12,Jinnah Sindh Medical University,1,523,BS - Medical Technology,150000,50,Bachelor,Medical Technology
+12,Jinnah Sindh Medical University,1,524,MBBS - Medicine - Mbbs,31900,50,Bachelor,Medicine
+12,Jinnah Sindh Medical University,1,525,BS - Nuclear Medicine,150000,50,Bachelor,Nuclear Medicine
+12,Jinnah Sindh Medical University,1,526,B.NURS - Nursing Generic,200000,50,Bachelor,Nursing
+12,Jinnah Sindh Medical University,1,527,BS - Operation Theatre Sciences,150000,50,Bachelor,Operation Theatre
+12,Jinnah Sindh Medical University,1,528,PHARM.D - Pharmacy,106480,50,Bachelor,Pharmacy
+12,Jinnah Sindh Medical University,1,529,DPT - Physical Therapy,220000,50,Bachelor,Physical Therapy
+12,Jinnah Sindh Medical University,1,530,BS - Public Health,150000,50,Bachelor,Public Health
+12,Jinnah Sindh Medical University,1,531,BS - Radiological Imaging,150000,50,Bachelor,Radiological Imaging
+12,Jinnah Sindh Medical University,1,532,BS - Respiratory Therapy,150000,50,Bachelor,Respiratory Therapy
+12,Jinnah Sindh Medical University,1,533,MBA - Business Administration,100000,null,Master,Business Administration
+12,Jinnah Sindh Medical University,1,534,M.Phil. - Clinical Pathology,282000,null,Master,Clinical Pathology
+12,Jinnah Sindh Medical University,1,535,MS - Health Professions Education,236250,null,Master,Health Professions
+12,Jinnah Sindh Medical University,1,536,M.Phil. - Histopathology,null,null,Master,Histopathology
+12,Jinnah Sindh Medical University,1,537,MBA - Hospital & Health Services Management,null,null,Master,Hospital Management
+12,Jinnah Sindh Medical University,1,538,MS - Management Sciences,null,null,Master,Management Sciences
+12,Jinnah Sindh Medical University,1,539,MS - Public Health,220500,null,Master,Public Health
+12,Jinnah Sindh Medical University,1,540,Associate Degree in Management Sciences,null,null,Bachelor,Management Sciences
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,541,BBA,93450,50,Bachelor,Business Administration
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,542,BS-Aviation Management,93450,50,Bachelor,Aviation Management
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,543,BS Digital Marketing,93450,50,Bachelor,Digital Marketing
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,544,BS-Accounting & Finance,93450,50,Bachelor,Accounting & Finance
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,545,BS-Entrepreneurship,105000,50,Bachelor,Entrepreneurship
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,546,BBA to MBA,null,50,Bachelor,Business Administration
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,547,BE-Electrical,117600,50,Bachelor,Electrical Engineering
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,548,BE-Mechatronics,117600,50,Bachelor,Mechatronics
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,549,BE-Avionics,117600,50,Bachelor,Avionics
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,550,BE-Software Engineering,117600,50,Bachelor,Software Engineering
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,551,BS-Computer Science,111300,50,Bachelor,Computer Science
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,552,BS-Artificial Intelligence,130200,50,Bachelor,Artificial Intelligence
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,553,BS-Data Science,111300,50,Bachelor,Data Science
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,554,BS-Cyber Security,130200,50,Bachelor,Cyber Security
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,555,BS-Software Engineering,117600,50,Bachelor,Software Engineering
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,556,MBA (for non-business 4 yrs degree holders),93450,3,Master,Business Administration
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,557,MBA-Executive,93450,3,Master,Executive Management
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,558,MBA (for BBA 4-yrs degree holders),93450,3,Master,Business Administration
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,559,MS-Management Sciences,79500,3,Master,Management Sciences
+13,PAF Karachi Institute of Economics and Technology (PAF-KIET),3,560,MS-Electronics Engineering,79500,3,Master,Electronics Engineering
+14,Dawood University of Engineering and Technology,1,561,BArch Architecture and Planning,32000,60,Bachelor,Architecture
+14,Dawood University of Engineering and Technology,1,562,BE Civil Engineering,32000,60,Bachelor,Civil Engineering
+14,Dawood University of Engineering and Technology,1,563,BE Chemical Engineering,32000,60,Bachelor,Chemical Engineering
+14,Dawood University of Engineering and Technology,1,564,BE Computer System Engineering,32000,60,Bachelor,Computer Engineering
+14,Dawood University of Engineering and Technology,1,565,BE Electronic Engineering,32000,60,Bachelor,Electronic Engineering
+14,Dawood University of Engineering and Technology,1,566,BE Energy and Environment Engineering,32000,60,Bachelor,Energy Engineering
+14,Dawood University of Engineering and Technology,1,567,BE Industrial Engineering and Management,32000,60,Bachelor,Industrial Engineering
+14,Dawood University of Engineering and Technology,1,568,BE Metallurgy and Materials Engineering,32000,60,Bachelor,Metallurgy Engineering
+14,Dawood University of Engineering and Technology,1,569,BE Petroleum and Gas Engineering,32000,60,Bachelor,Petroleum Engineering
+14,Dawood University of Engineering and Technology,1,570,BE Telecommunication Engineering,32000,60,Bachelor,Telecommunication
+14,Dawood University of Engineering and Technology,1,571,BS Computer Science,70000,50,Bachelor,Computer Science
+14,Dawood University of Engineering and Technology,1,572,BS Artificial Intelligence,70000,50,Bachelor,Artificial Intelligence
+14,Dawood University of Engineering and Technology,1,573,BS Cyber Security,70000,50,Bachelor,Cyber Security
+14,Dawood University of Engineering and Technology,1,574,BS Mathematics,70000,50,Bachelor,Mathematics
+14,Dawood University of Engineering and Technology,1,575,MS Chemical Engineering,84000,2,Master,Chemical Engineering
+14,Dawood University of Engineering and Technology,1,576,MS Electronic Engineering,84000,2,Master,Electronic Engineering
+14,Dawood University of Engineering and Technology,1,577,MS Telecommunication Engineering,84000,2,Master,Telecommunication
+14,Dawood University of Engineering and Technology,1,578,MS Industrial Chemistry,84000,2,Master,Industrial Chemistry
+14,Dawood University of Engineering and Technology,1,579,MS Metallurgy & Material Engineering,84000,2,Master,Metallurgy Engineering
+14,Dawood University of Engineering and Technology,1,580,MS Industrial Engineering,84000,2,Master,Industrial Engineering
+15,Greenwich University,1,581,BS-Business Administration,44580,55,Bachelor,Business Administration
+15,Greenwich University,1,582,BS-Economics & Finance,44580,55,Bachelor,Economics & Finance
+15,Greenwich University,1,583,BS-Digital Business Management,44580,55,Bachelor,Digital Business
+15,Greenwich University,1,584,BS-Tourism & Hospitality Management,44580,55,Bachelor,Tourism & Hospitality
+15,Greenwich University,1,585,BS-Digital Media Marketing,44580,55,Bachelor,Digital Media Marketing
+15,Greenwich University,1,586,BS-Visual Effects & Animation,44580,55,Bachelor,Visual Effects
+15,Greenwich University,1,587,BS-English,44580,55,Bachelor,English
+15,Greenwich University,1,588,BS-Mass Communication & Media Studies,44580,55,Bachelor,Mass Communication
+15,Greenwich University,1,589,BS-Textile Design,44580,55,Bachelor,Textile Design
+15,Greenwich University,1,590,BS-Communication Design,44580,55,Bachelor,Communication Design
+15,Greenwich University,1,591,B.Education (1.5 Year),44580,55,Bachelor,Education
+15,Greenwich University,1,592,B.Education (2.5 Year),44580,55,Bachelor,Education
+15,Greenwich University,1,593,BS-Film Studies,44580,55,Bachelor,Film Studies
+15,Greenwich University,1,594,BS-Fashion Styling & Communication,44580,55,Bachelor,Fashion Styling
+15,Greenwich University,1,595,BS-Fashion Design,44580,55,Bachelor,Fashion Design
+15,Greenwich University,1,596,BS-Fashion Marketing & Merchandising,44580,55,Bachelor,Fashion Marketing
+15,Greenwich University,1,597,BS-Psychology,44580,55,Bachelor,Psychology
+15,Greenwich University,1,598,BS-Banking & Finance,44580,55,Bachelor,Banking & Finance
+15,Greenwich University,1,599,MS-Mass Communication & Media Studies,50500,2.5,Master,Mass Communication
+15,Greenwich University,1,600,MBA (1.5 Years),50500,2.5,Master,Business Administration
+15,Greenwich University,1,601,MBA (2.5 Years),50500,2.5,Master,Business Administration
+15,Greenwich University,1,602,MS-Economics & Finance,50500,2.5,Master,Economics & Finance
+16,Aga Khan University,1,603,BS (Bachelor of Studies),1930000,75,Bachelor,Bachelor of Studies
+16,Aga Khan University,1,604,"MBBS (Bachelor of Medicine, Bachelor of Surgery)",1564600,70,Bachelor,Medicine
+16,Aga Khan University,1,605,ASDH (Associate of Science in Dental Hygiene),324000,50,Bachelor,Dental Hygiene
+16,Aga Khan University,1,606,BScN (Post-RN Bachelor of Science in Nursing),844800,null,Bachelor,Nursing
+16,Aga Khan University,1,607,BScN (Bachelor of Science in Nursing),620400,50,Bachelor,Nursing
+16,Aga Khan University,1,608,BScM (Post-RM Bachelor of Science in Midwifery),514800,null,Bachelor,Midwifery
+16,Aga Khan University,1,609,BEd (Bachelor of Education),1940467,null,Bachelor,Education
+16,Aga Khan University,1,610,MS-Public Health,768000,null,Master,Public Health
+16,Aga Khan University,1,611,MS-Epidemiology & Biostatistics,768000,null,Master,Epidemiology
+16,Aga Khan University,1,612,MS-Health Policy & Management,768000,null,Master,Health Policy
+16,Aga Khan University,1,613,MS-Health Professions Education,768000,null,Master,Health Professions
+16,Aga Khan University,1,614,MPhil in Biological and Biomedical Sciences,504000,null,Master,Biological Sciences
+17,Institute of Business Administration (IBA) Karachi,1,615,BS-BBA (Bachelor of Business Administration),237500,65,Bachelor,Business Administration
+17,Institute of Business Administration (IBA) Karachi,1,616,BS-Accounting & Finance (Bachelor of Science in Accounting & Finance),237500,65,Bachelor,Accounting & Finance
+17,Institute of Business Administration (IBA) Karachi,1,617,BS-CSE (Bachelor of Science in Computer Science),199500,65,Bachelor,Computer Science
+17,Institute of Business Administration (IBA) Karachi,1,618,BS-Economics (Bachelor of Science in Economics),199500,65,Bachelor,Economics
+17,Institute of Business Administration (IBA) Karachi,1,619,BS-Economics & Mathematics (Bachelor of Science in Economics & Mathematics),199500,65,Bachelor,Economics & Mathematics
+17,Institute of Business Administration (IBA) Karachi,1,620,BS-Mathematics (Bachelor of Science in Mathematics),199500,65,Bachelor,Mathematics
+17,Institute of Business Administration (IBA) Karachi,1,621,BS-Social Sciences & Liberal Arts (Bachelor of Science in Social Sciences & Liberal Arts),199500,65,Bachelor,Social Sciences & Liberal Arts
+17,Institute of Business Administration (IBA) Karachi,1,622,MBA,122500,2.5,Master,Business Administration
+17,Institute of Business Administration (IBA) Karachi,1,623,EMBA,122500,2.5,Master,Executive Management
+17,Institute of Business Administration (IBA) Karachi,1,624,MS-CS,122500,2.5,Master,Computer Science
+17,Institute of Business Administration (IBA) Karachi,1,625,MS-Data Science,122500,2.5,Master,Data Science
+17,Institute of Business Administration (IBA) Karachi,1,626,MS-Development Studies,122500,2.5,Master,Development Studies
+17,Institute of Business Administration (IBA) Karachi,1,627,MS-Economics,122500,2.5,Master,Economics
+17,Institute of Business Administration (IBA) Karachi,1,628,MS-Finance,122500,2.5,Master,Finance
+17,Institute of Business Administration (IBA) Karachi,1,629,MS-Islamic Banking & Finance,122500,2.5,Master,Islamic Banking & Finance
+17,Institute of Business Administration (IBA) Karachi,1,630,MS-Journalism,122500,2.5,Master,Journalism
+17,Institute of Business Administration (IBA) Karachi,1,631,MS-Management,122500,2.5,Master,Management
+17,Institute of Business Administration (IBA) Karachi,1,632,MS-Mathematics,122500,2.5,Master,Mathematics
+17,Institute of Business Administration (IBA) Karachi,1,633,MS-Marketing,122500,2.5,Master,Marketing
+18,Preston University,1,634,"BBA- Marketing & Finance, Information Technology",79200,40,Bachelor,Marketing & Finance
+18,Preston University,1,635,"BSCS- Computer Science, Artificial Intelligence, Cyber Security, Data Science",22680,40,Bachelor,Computer Science
+18,Preston University,1,636,BS- Mathematics,55300,40,Bachelor,Mathematics
+18,Preston University,1,637,BS- Physics,50400,40,Bachelor,Physics
+18,Preston University,1,638,BS- Chemistry,50400,40,Bachelor,Chemistry
+18,Preston University,1,639,BS- Biology,50400,40,Bachelor,Biology
+18,Preston University,1,640,BS- Nanoscience & Technology,52600,40,Bachelor,Nanoscience
+18,Preston University,1,641,BS- International Relations,43900,40,Bachelor,International Relations
+18,Preston University,1,642,BS- Economics,43900,40,Bachelor,Economics
+18,Preston University,1,643,BS- Psychology,43900,40,Bachelor,Psychology
+18,Preston University,1,644,B.Ed- Education,14200,40,Bachelor,Education
+18,Preston University,1,645,MS- Pharmacy Programs,null,0,Master,Pharmacy Programs
+18,Preston University,1,646,MS- Nursing,null,0,Master,Nursing
+18,Preston University,1,647,MS- Tech Programs in Engineering,null,0,Master,Engineering
+18,Preston University,1,648,MS- Hotel Management (M.H.M.),null,0,Master,Hotel Management
+18,Preston University,1,649,MS- Arts (MA),null,0,Master,Arts
+18,Preston University,1,650,MS- Business Administration / Management,null,0,Master,Business Administration
+18,Preston University,1,651,MS- Commerce (M.Com),null,0,Master,Commerce
+18,Preston University,1,652,MS- Computer Applications (MCA),null,0,Master,Computer Applications
+18,Preston University,1,653,MS- Education (M.Ed.),null,0,Master,Education
+18,Preston University,1,654,MS- Science (M.Sc.),null,0,Master,Science
+19,Ziauddin University,1,655,BS- Molecular Medicine,96000,60,Bachelor,Molecular Medicine
+19,Ziauddin University,1,656,BS- Dental Surgery (BDS),96000,60,Bachelor,Dental Surgery
+19,Ziauddin University,1,657,BS- Audiology & Speech Language Therapy,96000,60,Bachelor,Audiology
+19,Ziauddin University,1,658,BS- Medical Technology (4 years program),96000,60,Bachelor,Medical Technology
+19,Ziauddin University,1,659,BS- Public Health,96000,60,Bachelor,Public Health
+19,Ziauddin University,1,660,BS- Communication and Media Sciences,96000,60,Bachelor,Communication
+19,Ziauddin University,1,661,BS- Digital Media Marketing,96000,60,Bachelor,Digital Media
+19,Ziauddin University,1,662,BS- English,96000,60,Bachelor,English
+19,Ziauddin University,1,663,BS- Education and Psychology,96000,60,Bachelor,Education
+19,Ziauddin University,1,664,BS- Social Change & Development,96000,60,Bachelor,Social Change
+19,Ziauddin University,1,665,BS- Clinical Psychology,96000,60,Bachelor,Clinical Psychology
+19,Ziauddin University,1,666,BS- Biotechnology,96000,60,Bachelor,Biotechnology
+19,Ziauddin University,1,667,BS- Food Science & Technology,96000,60,Bachelor,Food Science
+19,Ziauddin University,1,668,BS- Internet of Things,96000,60,Bachelor,Internet of Things
+19,Ziauddin University,1,669,BS- Software Engineering,96000,60,Bachelor,Software Engineering
+19,Ziauddin University,1,670,BS- Computer Science,96000,60,Bachelor,Computer Science
+19,Ziauddin University,1,671,BS- Civil Engineering,96000,60,Bachelor,Civil Engineering
+19,Ziauddin University,1,672,BS- Business Analytics,96000,60,Bachelor,Business Analytics
+19,Ziauddin University,1,673,BS- Accounting and Finance,96000,60,Bachelor,Accounting
+19,Ziauddin University,1,674,BS- Architecture (B.Arch.),96000,60,Bachelor,Architecture
+19,Ziauddin University,1,675,BS- Microbiology,96000,60,Bachelor,Microbiology
+19,Ziauddin University,1,676,BS- Cyber Security Technology,96000,60,Bachelor,Cyber Security
+19,Ziauddin University,1,677,BS- Management & Technology,96000,60,Bachelor,Management
+19,Ziauddin University,1,678,BS- Biomedical Engineering Technology,96000,60,Bachelor,Biomedical Engineering
+19,Ziauddin University,1,679,BS- Electrical Engineering Technology,96000,60,Bachelor,Electrical Engineering
+19,Ziauddin University,1,680,BS- Data Science,96000,60,Bachelor,Data Science
+19,Ziauddin University,1,681,BS- Civil Engineering Technology,96000,60,Bachelor,Civil Engineering
+19,Ziauddin University,1,682,BS- Human Nutrition and Dietetics,96000,60,Bachelor,Nutrition
+19,Ziauddin University,1,683,MS-Health Professions Education (MHPE),null,3,Master,Health Professions
+19,Ziauddin University,1,684,MS-Science Speech Language Pathology,null,3,Master,Speech Language Pathology
+19,Ziauddin University,1,685,MS-Health Management,null,3,Master,Health Management
+19,Ziauddin University,1,686,MS-Dental Sciences (MDS),null,3,Master,Dental Sciences
+19,Ziauddin University,1,687,MS-Public Health,null,3,Master,Public Health
+19,Ziauddin University,1,688,MS-Nursing,null,3,Master,Nursing
+20,Sindh Madresatul Islam University,1,689,BBA,78750,50,Bachelor,Business Administration
+20,Sindh Madresatul Islam University,1,690,BBA (After 14 years of Education),73500,45,Bachelor,Business Administration
+20,Sindh Madresatul Islam University,1,691,BS-Entrepreneurship,58000,45,Bachelor,Entrepreneurship
+20,Sindh Madresatul Islam University,1,692,BS-Public Administration,51250,45,Bachelor,Public Administration
+20,Sindh Madresatul Islam University,1,693,BS-Economics,56500,45,Bachelor,Economics
+20,Sindh Madresatul Islam University,1,694,BS-Accounting & Finance,70600,50,Bachelor,Accounting & Finance
+20,Sindh Madresatul Islam University,1,695,BS-Banking & Finance,56500,45,Bachelor,Banking & Finance
+20,Sindh Madresatul Islam University,1,696,BS-Commerce,58000,45,Bachelor,Commerce
+20,Sindh Madresatul Islam University,1,697,BS-Computer Science,67050,50,Bachelor,Computer Science
+20,Sindh Madresatul Islam University,1,698,BS-Information Technology,67550,50,Bachelor,Information Technology
+20,Sindh Madresatul Islam University,1,699,BS-Cyber Security,67550,50,Bachelor,Cyber Security
+20,Sindh Madresatul Islam University,1,700,BS-Software Engineering,67500,50,Bachelor,Software Engineering
+20,Sindh Madresatul Islam University,1,701,BS-Data Science,67550,50,Bachelor,Data Science
+20,Sindh Madresatul Islam University,1,702,BS-Artificial Intelligence,67050,50,Bachelor,Artificial Intelligence
+20,Sindh Madresatul Islam University,1,703,BS-Mathematics Sciences,56500,50,Bachelor,Mathematics
+20,Sindh Madresatul Islam University,1,704,BS-Media Studies,65500,50,Bachelor,Media Studies
+20,Sindh Madresatul Islam University,1,705,BS-English,56500,45,Bachelor,English
+20,Sindh Madresatul Islam University,1,706,BS-Development Studies,56500,45,Bachelor,Development Studies
+20,Sindh Madresatul Islam University,1,707,BS-Sociology,56500,45,Bachelor,Sociology
+20,Sindh Madresatul Islam University,1,708,B.Ed. (1.5 years),58000,45,Bachelor,Education
+20,Sindh Madresatul Islam University,1,709,B.Ed. (Hons) (2 years),63250,45,Bachelor,Education
+20,Sindh Madresatul Islam University,1,710,B.Ed. (Hons) (4 years),56500,45,Bachelor,Education
+20,Sindh Madresatul Islam University,1,711,BS-Environmental Sciences,58500,45,Bachelor,Environmental Sciences
+20,Sindh Madresatul Islam University,1,712,MBA,111500,2.5,Master,Business Administration
+20,Sindh Madresatul Islam University,1,713,MS-Management Sciences,85500,2.5,Master,Management Sciences
+20,Sindh Madresatul Islam University,1,714,MS-Public Administration,85500,2.5,Master,Public Administration
+20,Sindh Madresatul Islam University,1,715,MS-Computer Science,72500,2.5,Master,Computer Science
+20,Sindh Madresatul Islam University,1,716,MS-Media Studies,85500,2.5,Master,Media Studies
+20,Sindh Madresatul Islam University,1,717,MS-Education,85500,2.5,Master,Education
+20,Sindh Madresatul Islam University,1,718,MS-Environmental Sciences,85500,2.5,Master,Environmental Sciences
+20,Sindh Madresatul Islam University,1,719,MS-(Linguistics),85500,2.5,Master,Linguistics
+20,Sindh Madresatul Islam University,1,720,MS-Mathematics Sciences,85500,2.5,Master,Mathematics
+20,Sindh Madresatul Islam University,1,721,MS-Development Studies,85500,2.5,Master,Development Studies
+21,Dadabhoy Institute of Higher Education (DIHE),1,722,BBA (Business Administration),116400,40,Bachelor,Business Administration
+21,Dadabhoy Institute of Higher Education (DIHE),1,723,BS(TECHNOLOGY) - Chemical Technology,104750,40,Bachelor,Chemical Technology
+21,Dadabhoy Institute of Higher Education (DIHE),1,724,BS(TECHNOLOGY) - Civil Technology,104750,40,Bachelor,Civil Technology
+21,Dadabhoy Institute of Higher Education (DIHE),1,725,BS - Clinical Micro Biology,104750,40,Bachelor,Microbiology
+21,Dadabhoy Institute of Higher Education (DIHE),1,726,B.COM - Commerce,104750,40,Bachelor,Commerce
+21,Dadabhoy Institute of Higher Education (DIHE),1,727,BS - Computer Science,118192,40,Bachelor,Computer Science
+21,Dadabhoy Institute of Higher Education (DIHE),1,728,B.ED - Education,50000,40,Bachelor,Education
+21,Dadabhoy Institute of Higher Education (DIHE),1,729,BS(TECHNOLOGY) - Electrical Technology,104750,40,Bachelor,Electrical Technology
+21,Dadabhoy Institute of Higher Education (DIHE),1,730,BS(TECHNOLOGY) - Electronics Technology,115350,40,Bachelor,Electronics Technology
+21,Dadabhoy Institute of Higher Education (DIHE),1,731,BS - Epidemiology & Public Health,104750,40,Bachelor,Epidemiology
+21,Dadabhoy Institute of Higher Education (DIHE),1,732,BS - Food Science & Technology,104750,40,Bachelor,Food Science
+21,Dadabhoy Institute of Higher Education (DIHE),1,733,LLB - Law,100450,40,Bachelor,Law
+21,Dadabhoy Institute of Higher Education (DIHE),1,734,BS(TECHNOLOGY) - Mechanical Technology,104750,40,Bachelor,Mechanical Technology
+21,Dadabhoy Institute of Higher Education (DIHE),1,735,DPT - Physical Therapy,null,40,Bachelor,Physical Therapy
+21,Dadabhoy Institute of Higher Education (DIHE),1,736,MBA [EXE] - Business Administration (3.5 Years),77500,null,Master,Business Administration
+21,Dadabhoy Institute of Higher Education (DIHE),1,737,MBA [EXE] - Business Administration (2 Years),97500,null,Master,Business Administration
+21,Dadabhoy Institute of Higher Education (DIHE),1,738,M.Com. - Commerce,null,null,Master,Commerce
+21,Dadabhoy Institute of Higher Education (DIHE),1,739,MCS - Computer Science,57000,null,Master,Computer Science
+21,Dadabhoy Institute of Higher Education (DIHE),1,740,M.Ed. - Education,57000,null,Master,Education
+22,BAQAI MEDICAL UNIVERSITY,1,741,MBBS,1800000,null,Bachelor,Medicine
+22,BAQAI MEDICAL UNIVERSITY,1,742,BDS,1600000,null,Bachelor,Dentistry
+22,BAQAI MEDICAL UNIVERSITY,1,743,Pharm-D,null,60,Bachelor,Pharmacy
+22,BAQAI MEDICAL UNIVERSITY,1,744,DVM (Doctor of Veterinary Medicine),null,null,Bachelor,Veterinary Medicine
+22,BAQAI MEDICAL UNIVERSITY,1,745,B.Sc Nursing,null,60,Bachelor,Nursing
+22,BAQAI MEDICAL UNIVERSITY,1,746,Doctor of Physical Therapy & Rehabilitation Medicine (DPTRM),null,60,Bachelor,Physical Therapy
+22,BAQAI MEDICAL UNIVERSITY,1,747,BS-SE (Software Engineering),null,50,Bachelor,Software Engineering
+22,BAQAI MEDICAL UNIVERSITY,1,748,BS-BI (Bioinformatics),144600,null,Bachelor,Computer Science
+22,BAQAI MEDICAL UNIVERSITY,1,749,BS Computer Science,141900,null,Bachelor,Medical Technology
+22,BAQAI MEDICAL UNIVERSITY,1,750,BBA (Hons)Major in Health Management,null,50,Bachelor,Health Management
+22,BAQAI MEDICAL UNIVERSITY,1,751,MD (Internal Medicine),null,,Master,Internal Medicine
+22,BAQAI MEDICAL UNIVERSITY,1,752,MD (Pediatrics),null,,Master,Pediatrics
+22,BAQAI MEDICAL UNIVERSITY,1,753,MS (Surgery),null,,Master,Surgery
+22,BAQAI MEDICAL UNIVERSITY,1,754,MS (Ophthalmalogy),null,,Master,Ophthalmalogy
+22,BAQAI MEDICAL UNIVERSITY,1,755,MS (Otorhinolaryngology),null,,Master,Otorhinolaryngology
+22,BAQAI MEDICAL UNIVERSITY,1,756,Master of Public Health,null,,Master,Public Health
+22,BAQAI MEDICAL UNIVERSITY,1,757,M.Sc Medical Technology,null,,Master,Medical Technology
+22,BAQAI MEDICAL UNIVERSITY,1,758,MBA,null,2.5,Master,Business Administration
+22,BAQAI MEDICAL UNIVERSITY,1,759,MS (Hematology),null,,Master,Hematology
+22,BAQAI MEDICAL UNIVERSITY,1,760,MS in Transfusion Medicine,null,,Master,Transfusion Medicine
+22,BAQAI MEDICAL UNIVERSITY,1,761,M.Sc Hematology,null,null,Master,Hematology
+23,Jinnah University For Women,1,762,BS Islamic Learning,27000,45,Bachelor,Islamic Studies
+23,Jinnah University For Women,1,763,BS Political Science,27000,45,Bachelor,Political Science
+23,Jinnah University For Women,1,764,BS Urdu,27000,45,Bachelor,Urdu
+23,Jinnah University For Women,1,765,BS Education,35000,45,Bachelor,Education
+23,Jinnah University For Women,1,766,BS International Relation,35000,45,Bachelor,International Relations
+23,Jinnah University For Women,1,767,BS Sociology,35000,45,Bachelor,Sociology
+23,Jinnah University For Women,1,768,BS Psychology,45000,45,Bachelor,Psychology
+23,Jinnah University For Women,1,769,BS English,53000,45,Bachelor,English
+23,Jinnah University For Women,1,770,BS Media Studies,51000,45,Bachelor,Media Studies
+23,Jinnah University For Women,1,771,BS Visual Arts,74000,45,Bachelor,Visual Arts
+23,Jinnah University For Women,1,772,BS Biotechnology,60000,45,Bachelor,Biotechnology
+23,Jinnah University For Women,1,773,BS Chemistry,43000,45,Bachelor,Chemistry
+23,Jinnah University For Women,1,774,B.Ed (H) School Teachers Training Degree,32000,45,Bachelor,Education
+23,Jinnah University For Women,1,775,BS Microbiology,64000,45,Bachelor,Microbiology
+23,Jinnah University For Women,1,776,BS Bio-Chemistry,51000,45,Bachelor,Biochemistry
+23,Jinnah University For Women,1,777,BS in Molecular Biology,59000,45,Bachelor,Molecular Biology
+23,Jinnah University For Women,1,778,Pharm-D Morning,11900,60,Bachelor,Pharmacy
+23,Jinnah University For Women,1,779,Pharm-D Evening,11900,60,Bachelor,Pharmacy
+23,Jinnah University For Women,1,780,Pharm-D (1 Yr Condensed),10300,45,Bachelor,Pharmacy
+23,Jinnah University For Women,1,781,BS Food Science & Technology,74000,45,Bachelor,Food Science
+23,Jinnah University For Women,1,782,BS Human Nutrition And Dietetics,74000,45,Bachelor,Nutrition
+23,Jinnah University For Women,1,783,BS Eastern Medicine & Surgery (BEMS),68000,45,Bachelor,Eastern Medicine
+23,Jinnah University For Women,1,784,BS Doctor of Physical Therapy (DPT),10000,45,Bachelor,Physical Therapy
+23,Jinnah University For Women,1,785,BS Homeopathic Medicine & Surgery (BHMS),67000,45,Bachelor,Homeopathic Medicine
+23,Jinnah University For Women,1,786,BS Botany,38000,45,Bachelor,Botany
+23,Jinnah University For Women,1,787,BS Mathematics,38000,45,Bachelor,Mathematics
+23,Jinnah University For Women,1,788,BS Physics,38000,45,Bachelor,Physics
+23,Jinnah University For Women,1,789,BS Zoology,38000,45,Bachelor,Zoology
+23,Jinnah University For Women,1,790,BS Computer Science,85000,45,Bachelor,Computer Science
+23,Jinnah University For Women,1,791,BS Software Engineering,85000,45,Bachelor,Software Engineering
+23,Jinnah University For Women,1,792,BS Commerce,44000,45,Bachelor,Commerce
+23,Jinnah University For Women,1,793,BS Economics,33000,45,Bachelor,Economics
+23,Jinnah University For Women,1,794,BS Economics & Finance,33000,45,Bachelor,Economics
+23,Jinnah University For Women,1,795,BBA Business Administration,76000,45,Bachelor,Business Administration
+23,Jinnah University For Women,1,796,MS - Computer Science (MS-CS),null,2,Master,Computer Science
+23,Jinnah University For Women,1,797,MS - Software Engineering (MS-SE),null,2,Master,Software Engineering
+23,Jinnah University For Women,1,798,MBA - Business Administration,76000,2,Master,Business Administration
+23,Jinnah University For Women,1,799,MS - Pharmacy,null,2,Master,Pharmacy
+23,Jinnah University For Women,1,800,ADP- Commerce,44000,2,Master,Commerce
+23,Jinnah University For Women,1,801,ADP - Education,32000,2,Master,Education
+23,Jinnah University For Women,1,802,ADP - Islamic Learning,34000,2,Master,Islamic Studies
+23,Jinnah University For Women,1,803,ADP - Biochemistry,35000,2,Master,Biochemistry
+23,Jinnah University For Women,1,804,ADP - Botany,44000,2,Master,Botany
+23,Jinnah University For Women,1,805,ADP - Chemistry,49000,2,Master,Chemistry
+23,Jinnah University For Women,1,806,ADP - Mathematics,44000,2,Master,Mathematics
+23,Jinnah University For Women,1,807,ADP - Microbiology,71000,2,Master,Microbiology
+23,Jinnah University For Women,1,808,ADP - Zoology,43000,2,Master,Zoology
+23,Jinnah University For Women,1,809,ADP - Biotechnology,43000,2,Master,Biotechnology
+23,Jinnah University For Women,1,810,MS - Food Science & Technology,null,2,Master,Food Science
+23,Jinnah University For Women,1,811,ADP - Media Studies,59000,2,Master,Media Studies
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,812,BS-Economics,22220,45,Bachelor,Economics
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,813,BS-Mass Communication,22220,45,Bachelor,Mass Communication
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,814,BS-Psychology,22220,45,Bachelor,Psychology
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,815,BS-Sociology,22220,45,Bachelor,Sociology
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,816,BS-English (Applied Linguistics),22220,45,Bachelor,English
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,817,BS-Computer Science,22220,50,Bachelor,Computer Science
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,818,BS-Information Technology,22220,50,Bachelor,Information Technology
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,819,BS-Software Engineering,22220,50,Bachelor,Software Engineering
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,820,BS-Business Administration,22220,45,Bachelor,Business Administration
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,821,BS-Commerce,22220,45,Bachelor,Commerce
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,822,BS-Public Administration,22220,45,Bachelor,Public Administration
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,823,BS-Biotechnology,22220,45,Bachelor,Biotechnology
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,824,BS-Genetics,22220,45,Bachelor,Genetics
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,825,BS-Mathematics,22220,45,Bachelor,Mathematics
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,826,B.Ed-Education,22220,45,Bachelor,Education
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,827,BS-Business & Information Technology (BBIT),22220,45,Bachelor,Business
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,828,MS-Economics,32160,2,Master,Economics
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,829,MS-Applied Psychology,32160,2,Master,Applied Psychology
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,830,MS-Organizational Psychology,32160,2,Master,Organizational Psychology
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,831,MS-Mass Communication,32160,2,Master,Mass Communication
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,832,MS-English Language Teaching (ELT),32160,2,Master,English Language Teaching
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,833,MS-Computer Science,20500,2,Master,Computer Science
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,834,MS-Information Technology,20500,2,Master,Information Technology
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,835,MS-Business Administration,20500,2,Master,Business Administration
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,836,MS-Accounting,32160,2,Master,Accounting
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,837,MS-Accounting & Finance,32160,2,Master,Accounting & Finance
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,838,MS-Banking & Finance,32160,2,Master,Banking & Finance
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,839,MS-Business Economics,32160,2,Master,Business Economics
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,840,MS-Commerce,32160,2,Master,Commerce
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,841,MS-Finance,32160,2,Master,Finance
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,842,MS-Human Resource Management,32160,2,Master,Human Resource Management
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,843,MS-Operations & Supply Chain Management,32160,2,Master,Operations & Supply Chain Management
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,844,MS-Public Administration,32160,2,Master,Public Administration
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,845,MS-Bioinformatics,32160,2,Master,Bioinformatics
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,846,MS-Biotechnology,32160,2,Master,Biotechnology
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,847,MS-Genetics,32160,2,Master,Genetics
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,848,MS-Zoology,32160,2,Master,Zoology
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,849,MS-Mathematics,32160,2,Master,Mathematics
+24,VIRTUAL UNIVERSITY[KARACHI CAMPUS],1,850,MS-Molecular Biology,32160,2,Master,Molecular Biology
+25,Fast University,1,851,BS-Artificial Intelligence,135000,50,Bachelor,Artificial Intelligence
+25,Fast University,1,852,BS-Business Analytics,135000,50,Bachelor,Business Analytics
+25,Fast University,1,853,BS-Computer Science,135000,50,Bachelor,Computer Science
+25,Fast University,1,854,BS-Cyber Security,135000,50,Bachelor,Cyber Security
+25,Fast University,1,855,BS-Electrical Engineering,135000,60,Bachelor,Electrical Engineering
+25,Fast University,1,856,BS-Financial Technologies,135000,50,Bachelor,Financial Technologies
+25,Fast University,1,857,BS-Software Engineering,135000,60,Bachelor,Software Engineering
+25,Fast University,1,858,MS-Business Analytics,103000,2,Master,Business Analytics
+25,Fast University,1,859,MS-Computer Networks and Security,103000,2,Master,Computer Networks
+25,Fast University,1,860,MS-Computer Science,103000,2,Master,Computer Science
+25,Fast University,1,861,MS-Data Science,103000,2,Master,Data Science
+25,Fast University,1,862,MS-Electrical Engineering,103000,2,Master,Electrical Engineering
+25,Fast University,1,863,MS-Software Engineering,103000,2,Master,Software Engineering
+25,Fast University,1,864,MS-Civil Engineering,103000,2,Master,Civil Engineering
+25,Fast University,1,865,MS-Mathematics,103000,2,Master,Mathematics
+25,Fast University,1,866,MS-Artifical Intelligence,103000,2,Master,Artificial Intelligence
+25,Fast University,1,867,MS-Software Project Management,103000,2,Master,Software Project Management
+26,National Textile University Karachi,1,868,BS-Textile Engineering,105750,60,Bachelor,Textile Engineering
+26,National Textile University Karachi,1,869,BS-Polymer Engineering,105750,45,Bachelor,Polymer Engineering
+26,National Textile University Karachi,1,870,BS-Textile Engineering Technology,105750,50,Bachelor,Textile Engineering Technology
+26,National Textile University Karachi,1,871,BS-Garment Engineering Technology,105750,null,Bachelor,Garment Engineering Technology
+26,National Textile University Karachi,1,872,BS-Materials Engineering Technology,105750,null,Bachelor,Materials Engineering Technology
+26,National Textile University Karachi,1,873,BS-Computer Science,105750,null,Bachelor,Computer Science
+26,National Textile University Karachi,1,874,BS-Software Engineering,105750,null,Bachelor,Software Engineering
+26,National Textile University Karachi,1,875,BS-Artificial Intelligence,105750,null,Bachelor,Artificial Intelligence
+26,National Textile University Karachi,1,876,BS-Fashion Design,111750,45,Bachelor,Fashion Design
+26,National Textile University Karachi,1,877,BS-Textile Design,111750,null,Bachelor,Textile Design
+26,National Textile University Karachi,1,878,BS-Visual Arts,111750,null,Bachelor,Visual Arts
+26,National Textile University Karachi,1,879,BS-Animation & Multimedia Design,111750,null,Bachelor,Animation & Multimedia Design
+26,National Textile University Karachi,1,880,BS-Interior Design,111750,null,Bachelor,Interior Design
+26,National Textile University Karachi,1,881,BS-Business Administration,105750,null,Bachelor,Business Administration
+26,National Textile University Karachi,1,882,BS-Textile Management & Marketing,105750,45,Bachelor,Textile Management
+26,National Textile University Karachi,1,883,BS-Textile & Apparel Merchandising,105750,45,Bachelor,Textile & Apparel Merchandising
+26,National Textile University Karachi,1,884,BS-Quality & Supply Chain Management,105750,null,Bachelor,Quality & Supply Chain Management
+26,National Textile University Karachi,1,885,BS-Accounting & Finance,105750,null,Bachelor,Accounting & Finance
+26,National Textile University Karachi,1,886,BS-Applied Mathematics,75780,null,Bachelor,Applied Mathematics
+26,National Textile University Karachi,1,887,BS-Applied Physics,75780,null,Bachelor,Applied Physics
+26,National Textile University Karachi,1,888,BS-Applied Statistics,75780,null,Bachelor,Applied Statistics
+26,National Textile University Karachi,1,889,BS-Applied Chemistry,75780,null,Bachelor,Applied Chemistry
+26,National Textile University Karachi,1,890,MS-Textile Engineering,77000,null,Master,Textile Engineering
+26,National Textile University Karachi,1,891,MS-Advanced Materials Engineering,77000,null,Master,Advanced Materials Engineering
+26,National Textile University Karachi,1,892,MS-Polymer Science & Engineering,null,null,Master,Polymer Science & Engineering
+26,National Textile University Karachi,1,893,MS-Textile and Apparel,77000,2,Master,Textile Technology
+26,National Textile University Karachi,1,894,MS-Textile Chemistry,77000,null,Master,Textile Chemistry
+26,National Textile University Karachi,1,895,MS-Advanced Clothing & Fashion (Morning),77000,null,Master,Advanced Clothing & Fashion
+26,National Textile University Karachi,1,896,MS-Computer Science,77000,null,Master,Computer Science
+26,National Textile University Karachi,1,897,MS-Software Engineering,77000,null,Master,Software Engineering
+26,National Textile University Karachi,1,898,MS-Mathematics,77000,null,Master,Mathematics
+26,National Textile University Karachi,1,899,MS-Physics,77000,null,Master,Physics
+26,National Textile University Karachi,1,900,MBA-2 Years (For Non Business Graduates),97160,null,Master,Business Administration
+26,National Textile University Karachi,1,901,MBA (Project Based Program),null,null,Master,Business Administration
+26,National Textile University Karachi,1,902,MS-Business Administration,87080,null,Master,Business Administration
+27,"Salim Habib University, Karachi",1,903,BE - Biomedical Engineering,121000,60,Bachelor,Biomedical Engineering
+27,"Salim Habib University, Karachi",1,904,BS - Biosciences,121000,45,Bachelor,Biosciences
+27,"Salim Habib University, Karachi",1,905,BS - Computer Science,121000,50,Bachelor,Computer Science
+27,"Salim Habib University, Karachi",1,906,BS - Accounting & Finance,121000,45,Bachelor,Accounting & Finance
+27,"Salim Habib University, Karachi",1,907,BBA,121000,45,Bachelor,Business Administration
+27,"Salim Habib University, Karachi",1,908,BS -Supply Chain Management,121000,45,null,null
+27,"Salim Habib University, Karachi",1,909,BS-Fintech,121000,45,null,null
+27,"Salim Habib University, Karachi",1,910,BS-Actuarial Science & Risk Management,121000,45,null,null
+27,"Salim Habib University, Karachi",1,911,BS-Business Analytics,121000,45,null,null
+27,"Salim Habib University, Karachi",1,912,Doctor of Pharmacy,132000,60,Bachelor,Pharmacy
+27,"Salim Habib University, Karachi",1,913,ME - Biomedical Engineering,null,2,Master,Biomedical Engineering
+27,"Salim Habib University, Karachi",1,914,MS - Computer Science,null,2,Master,Computer Science
+27,"Salim Habib University, Karachi",1,915,MBA,null,2,Master,Business Administration
+28,Habib University,1,916,BS Computer Science,1212000,70,Bachelor,Computer Science
+28,Habib University,1,917,BS Electrical Engineering,1212000,70,Bachelor,Electrical Engineering
+28,Habib University,1,918,BS Computer Engineering,1212000,70,Bachelor,Computer Engineering
+28,Habib University,1,919,BA (Honors) Communication & Design,1212000,70,Bachelor,Communication
+28,Habib University,1,920,BA (Honors) Comparative Humanities,1212000,70,Bachelor,Humanities
+28,Habib University,1,921,BSc (Honors) Social Development & Policy,1212000,70,Bachelor,Social Development
+29,Bahria University,1,922,BS Accounting and Finance,171500,50,Bachelor,Accounting
+29,Bahria University,1,923,BS in Economics and Finance,171500,50,Bachelor,Economics
+29,Bahria University,1,924,BS in Business Analytics,null,50,Bachelor,Business Analytics
+29,Bahria University,1,925,BS Supply Chain Management,158000,50,Bachelor,Supply Chain Management
+29,Bahria University,1,926,BS Computer Science,160750,50,Bachelor,Computer Science
+29,Bahria University,1,927,Bachelor in Business Administration,171500,50,Bachelor,Business Administration
+29,Bahria University,1,928,Bachelor of Electrical Engineering (Electronics/Telecom/Power Stream),161000,60,Bachelor,Electrical Engineering
+29,Bahria University,1,929,BS Robotics & Intelligent Systems,null,50,Bachelor,Robotics
+29,Bahria University,1,930,Bachelor of Software Engineering,157000,60,Bachelor,Software Engineering
+29,Bahria University,1,931,Bachelor of Computer Science,160750,50,Bachelor,Computer Engineering
+29,Bahria University,1,932,Bachelor of science in Artificial Intelligence – BS AI,147560,50,Bachelor,Artificial Intelligence
+29,Bahria University,1,933,BS Information Technology,142000,50,Bachelor,Information Technology
+29,Bahria University,1,934,BS Environmental Sciences,139500,50,Bachelor,Environmental Sciences
+29,Bahria University,1,935,BS Geosciences,139500,50,Bachelor,Geosciences
+29,Bahria University,1,936,BS Remote Sensing & GIS,131000,50,Bachelor,Remote Sensing
+29,Bahria University,1,937,BS Psychology,141000,50,Bachelor,Psychology
+29,Bahria University,1,938,Bachelor in Social Sciences,150500,50,Bachelor,Social Sciences
+29,Bahria University,1,939,BS English,131000,50,Bachelor,English
+29,Bahria University,1,940,BS Public Health (BSPH),165000,50,Bachelor,Public Health
+29,Bahria University,1,941,BS Mathematics,131540,50,Bachelor,Mathematics
+29,Bahria University,1,942,BS Maritime Business and Management,139500,50,Bachelor,Maritime Business
+29,Bahria University,1,943,BS (Coastal and Marine Sciences),139500,50,Bachelor,Coastal Sciences
+29,Bahria University,1,944,MBBS,null,50,Bachelor,Medicine
+29,Bahria University,1,945,BDS,null,50,Bachelor,Dentistry
+29,Bahria University,1,946,DPT – Doctor in Physical Therapy,null,50,Bachelor,Physical Therapy
+29,Bahria University,1,947,BS Nursing,null,50,Bachelor,Nursing
+29,Bahria University,1,948,BS Medical Laboratory Technology,null,50,Bachelor,Medical Laboratory
+29,Bahria University,1,949,Bachelor of Science in Biotechnology,74375,50,Bachelor,Biotechnology
+29,Bahria University,1,950,LLB,167500,50,Bachelor,Law
+29,Bahria University,1,951,BS (Media Studies),146250,50,Bachelor,Media Studies
+29,Bahria University,1,952,BS Television Broadcasting & Digital Media,null,50,Bachelor,Television Broadcasting
+29,Bahria University,1,953,BS (Islamic Studies),90500,50,Bachelor,Islamic Studies
+29,Bahria University,1,954,MS Project Management (Weekend),148500,2,Master,Project Management
+29,Bahria University,1,955,MS ( Finance) (Weekend),120500,2,Master,Finance
+29,Bahria University,1,956,MS Management Sciences,117500,2,Master,Management Sciences
+29,Bahria University,1,957,MS ( HRM and Organizational Psychology),null,2,Master,HRM and Organizational Psychology
+29,Bahria University,1,958,MBA ( Pharmaceutical and Health Management),152000,2,Master,Pharmaceutical and Health Management
+29,Bahria University,1,959,MS Electrical Engineering,117500,2,Master,Electrical Engineering
+29,Bahria University,1,960,MS Software Engineering,117500,2,Master,Software Engineering
+29,Bahria University,1,961,MS Computer Engineering,117500,2,Master,Computer Engineering
+29,Bahria University,1,962,MS Computer Science,117500,2,Master,Computer Science
+29,Bahria University,1,963,MS Telecom & Networking,120500,2,Master,Telecom & Networking
+29,Bahria University,1,964,MS Geophysics,129500,2,Master,Geophysics
+29,Bahria University,1,965,MS Environmental Sciences,129500,2,Master,Environmental Sciences
+29,Bahria University,1,966,MS Maritime Ports and Shipping Management,null,2,Master,Maritime Management
+29,Bahria University,1,967,MS Maritime Trade and Logistics,null,2,Master,Maritime Management
+29,Bahria University,1,968,MBA(2 YEARS),162000,2,Master,Business Administration
+29,Bahria University,1,969,MBA (1.5 YEARS),162000,2,Master,Business Administration
+29,Bahria University,1,970,MS Media Studies,120500,2,Master,Media Studies
+29,Bahria University,1,971,MS (Clinical Psychology),138750,2,Master,Clinical Psychology
+29,Bahria University,1,972,MS Islamic Studies,113528,2,Master,Islamic Studies
+30,Kasbit University,1,973,BBA,95000,45,Bachelor,Business Administration
+30,Kasbit University,1,974,BS Accounting and Finance,95000,60,Bachelor,Accounting
+30,Kasbit University,1,975,BS Software Engineering,95000,60,Bachelor,Software Engineering
+30,Kasbit University,1,976,BS Computer Science,95000,50,Bachelor,Computer Science
+30,Kasbit University,1,977,BBA(2 Years),95000,45,Bachelor,Business Administration
+30,Kasbit University,1,978,MBA,96000,45,Master,Business Administration
+30,Kasbit University,1,979,MS,96000,2.5,Master,Master of Science
+31,Dow University of Health Sciences (DUHS),1,980,BDS - Bachelors of Dental Surgery,1264500,60,Bachelor,Dental Surgery
+31,Dow University of Health Sciences (DUHS),1,981,BBA (4 Years) - Bachelor of Business Administration,1144730,60,Bachelor,Business Administration
+31,Dow University of Health Sciences (DUHS),1,982,BBA (2 Years) - Bachelor of Business Administration,132025,60,Bachelor,Business Administration
+31,Dow University of Health Sciences (DUHS),1,983,BS Generic Nursing,214130,60,Bachelor,Nursing
+31,Dow University of Health Sciences (DUHS),1,984,"MBBS - Bachelor of Medicine, Bachelor of Surgery",1032000,60,Bachelor,Medicine
+31,Dow University of Health Sciences (DUHS),1,985,BS Medical Technology in Perfusion Sciences (PS),188612,60,Bachelor,Medical Technology
+31,Dow University of Health Sciences (DUHS),1,986,BS Medical Technology in Respiratory and Critical Care (RCCT),220612,60,Bachelor,Medical Technology
+31,Dow University of Health Sciences (DUHS),1,987,BS Medical Technology in Clinical Ophthalmic Technology (OPT),220612,60,Bachelor,Medical Technology
+31,Dow University of Health Sciences (DUHS),1,988,BS Medical Technology in Surgical Technology (ST),188612,60,Bachelor,Medical Technology
+31,Dow University of Health Sciences (DUHS),1,989,BS Medical Technology in Clinical Laboratory Sciences (CLS),188612,60,Bachelor,Medical Technology
+31,Dow University of Health Sciences (DUHS),1,990,Pharm D - Doctor of Pharmacy,263000,60,Bachelor,Pharmacy
+31,Dow University of Health Sciences (DUHS),1,991,BS Nutrition,227094,60,Bachelor,Nutrition
+31,Dow University of Health Sciences (DUHS),1,992,BSRT - BS Radiologic Technology,220612,60,Bachelor,Radiologic Technology
+31,Dow University of Health Sciences (DUHS),1,993,BS DCP (Dental Hygiene),208210,60,Bachelor,Dental Hygiene
+31,Dow University of Health Sciences (DUHS),1,994,BS DCP (Dental Technology),208210,60,Bachelor,Dental Technology
+31,Dow University of Health Sciences (DUHS),1,995,BS Biotechnology,220612,60,Bachelor,Biotechnology
+31,Dow University of Health Sciences (DUHS),1,996,DPT - Doctor of Physical Therapy,233000,60,Bachelor,Physical Therapy
+31,Dow University of Health Sciences (DUHS),1,997,BS Optometry,220612,60,Bachelor,Optometry
+31,Dow University of Health Sciences (DUHS),1,998,BS Psychology,220612,60,Bachelor,Psychology
+31,Dow University of Health Sciences (DUHS),1,999,BS Public Health,214130,60,Bachelor,Public Health
+31,Dow University of Health Sciences (DUHS),1,1000,Master of Business Administration (MBA),102468,50,Master,Business Administration
+31,Dow University of Health Sciences (DUHS),1,1001,Masters in Science in Nursing (MSN),75900,2.5,Master,Nursing
+31,Dow University of Health Sciences (DUHS),1,1002,Master of Sciences in Diabetes & Endocrinology (MSc. D & E),82225,,Master,Diabetes & Endocrinology
+31,Dow University of Health Sciences (DUHS),1,1003,Master of Science in Public Health (MSPH),101200,,Master,Public Health
+31,Dow University of Health Sciences (DUHS),1,1004,Master of Sciences in Biostatistics and Epidemiology (MSBE),101200,,Master,Biostatistics & Epidemiology
+31,Dow University of Health Sciences (DUHS),1,1005,Master of Science in Public Health (Health Policy & Management) (MSPH),101200,,Master,Public Health
+31,Dow University of Health Sciences (DUHS),1,1006,Master of Science in Public Health (Social & Behavioral Sciences) (MSPH),101200,,Master,Public Health
+31,Dow University of Health Sciences (DUHS),1,1007,Master of Science in Public Health (Nutritional Sciences) (MSPH),101200,,Master,Public Health
+31,Dow University of Health Sciences (DUHS),1,1008,Master in Health Professions' Education (MHPE),136620,,Master,Health Professions
+31,Dow University of Health Sciences (DUHS),1,1009,Master of Surgery in Cardiac Surgery (MS),101200,,Master,Cardiac Surgery
+31,Dow University of Health Sciences (DUHS),1,1010,Master of Surgery in Neurosurgery (MS),101200,,Master,Neurosurgery
+31,Dow University of Health Sciences (DUHS),1,1011,Master of Surgery in Ophthalmology (MS),101200,,Master,Ophthalmology
+31,Dow University of Health Sciences (DUHS),1,1012,Master of Surgery in Plastic Surgery (MS),101200,,Master,Plastic Surgery
+31,Dow University of Health Sciences (DUHS),1,1013,Master of Surgery in Orthopedic (MS),101200,,Master,Orthopedic Surgery
+31,Dow University of Health Sciences (DUHS),1,1014,Master of Surgery in ENT (MS),101200,,Master,ENT Surgery
+31,Dow University of Health Sciences (DUHS),1,1015,Master of Dental Surgery (Operative Dentistry) (MDS),101200,,Master,Dental Surgery
+31,Dow University of Health Sciences (DUHS),1,1016,Master of Dental Surgery (Orthodontics) (MDS),101200,,Master,Dental Surgery
+31,Dow University of Health Sciences (DUHS),1,1017,Master of Dental Surgery (Oral Surgery) (MDS),101200,,Master,Dental Surgery
+31,Dow University of Health Sciences (DUHS),1,1018,Master of Dental Surgery (Prosthodontics) (MDS),101200,,Master,Dental Surgery
+31,Dow University of Health Sciences (DUHS),1,1019,Master of Dental Sciences (Oral Biology) (MDS),82225,,Master,Dental Sciences
+31,Dow University of Health Sciences (DUHS),1,1020,Master of Dental Sciences (Sciences of Dental Material) (MDS),82225,,Master,Dental Sciences
+31,Dow University of Health Sciences (DUHS),1,1021,Master of Dental Sciences (Community Dentistry) (MDS),82225,,Master,Dental Sciences
+31,Dow University of Health Sciences (DUHS),1,1022,Master of Dental Sciences (Oral Pathology) (MDS),82225,,Master,Dental Sciences
+31,Dow University of Health Sciences (DUHS),1,1023,Master of Sciences in Operative Dentistry (MSc),82225,,Master,Operative Dentistry
+31,Dow University of Health Sciences (DUHS),1,1024,Master of Sciences in Oral Surgery (MSc),82225,,Master,Oral Surgery
+31,Dow University of Health Sciences (DUHS),1,1025,Master of Sciences in Prosthodontics (MSc),82225,,Master,Prosthodontics
+31,Dow University of Health Sciences (DUHS),1,1026,Master of Sciences in Orthodontics (MSc),82225,,Master,Orthodontics
+31,Dow University of Health Sciences (DUHS),1,1027,Master of Sciences in Periodontology (MSc),82225,,Master,Periodontology
+31,Dow University of Health Sciences (DUHS),1,1028,Master of Sciences in Oral Biology (MSc),82225,,Master,Oral Biology
+31,Dow University of Health Sciences (DUHS),1,1029,Master of Sciences in Oral Pathology (MSc),82225,,Master,Oral Pathology
+31,Dow University of Health Sciences (DUHS),1,1030,Master of Sciences in Dental Materials (MSc),82225,,Master,Dental Materials
+31,Dow University of Health Sciences (DUHS),1,1031,Master of Sciences in Community Dentistry (MSc),82225,,Master,Community Dentistry
+31,Dow University of Health Sciences (DUHS),1,1032,Master of Sciences in Oral Medicine (MSc),82225,,Master,Oral Medicine
+31,Dow University of Health Sciences (DUHS),1,1033,Executive Master of Business Administration (EMBA),68312,null,Master,Business Administration
+31,Dow University of Health Sciences (DUHS),1,1034,MS Advanced Physiotherapy,101200,null,Master,Advanced Physiotherapy
+31,Dow University of Health Sciences (DUHS),1,1035,Master of Sciences in Biotechnology (MSc),82225,,Master,Biotechnology
+31,Dow University of Health Sciences (DUHS),1,1036,Master of Sciences in Physiology (MSc),82225,,Master,Physiology
+31,Dow University of Health Sciences (DUHS),1,1037,Master of Sciences in Genetics (MSc),82225,,Master,Genetics
+31,Dow University of Health Sciences (DUHS),1,1038,Master of Sciences in Microbiology (MSc),82225,,Master,Microbiology
+31,Dow University of Health Sciences (DUHS),1,1039,Master of Sciences in Molecular Pathology (MSc),82225,,Master,Molecular Pathology
+31,Dow University of Health Sciences (DUHS),1,1040,Master of Sciences in Biochemistry (MSc),82225,,Master,Biochemistry
+31,Dow University of Health Sciences (DUHS),1,1041,Master of Sciences in Pathology (MSc),82225,,Master,Pathology
+31,Dow University of Health Sciences (DUHS),1,1042,Master of Sciences in Hematology (MSc),82225,,Master,Hematology
+31,Dow University of Health Sciences (DUHS),1,1043,Master of Sciences in Anatomy (MSc),82225,,Master,Anatomy
+31,Dow University of Health Sciences (DUHS),1,1044,Master of Sciences in Histopathology (MSc),82225,,Master,Histopathology
+31,Dow University of Health Sciences (DUHS),1,1045,MS in Advanced Physiotherapy (MSAPT),101200,null,Master,Advanced Physiotherapy
+31,Dow University of Health Sciences (DUHS),1,1046,Doctor of Medicine in Emergency Medicine-(MD),267093,,Master,Emergency Medicine
+31,Dow University of Health Sciences (DUHS),1,1047,Doctor of Medicine in Anesthesiology-(MD),267093,,Master,Anesthesiology
+31,Dow University of Health Sciences (DUHS),1,1048,Doctor of Medicine in Cardiology-(MD),267093,,Master,Cardiology
+31,Dow University of Health Sciences (DUHS),1,1049,Doctor of Medicine in Critical Care Medicine-(MD),267093,,Master,Critical Care Medicine
+31,Dow University of Health Sciences (DUHS),1,1050,Doctor of Medicine in Dermatology-(MD),267093,,Master,Dermatology
+31,Dow University of Health Sciences (DUHS),1,1051,Doctor of Medicine in Family Medicine-(MD),267093,,Master,Family Medicine
+31,Dow University of Health Sciences (DUHS),1,1052,Doctor of Medicine in Medical Radiology-(MD),267093,,Master,Medical Radiology
+31,Dow University of Health Sciences (DUHS),1,1053,Doctor of Medicine in Neurology-(MD),267093,,Master,Neurology
+31,Dow University of Health Sciences (DUHS),1,1054,Doctor of Medicine in Pulmonology-(MD),267093,,Master,Pulmonology
+31,Dow University of Health Sciences (DUHS),1,1055,Doctor of Medicine in Psychiatry-(MD),267093,,Master,Psychiatry
+32,Ilma University,1,1056,BS - Marketing (BBA-M),195500,45,Bachelor,Marketing
+32,Ilma University,1,1057,BS - Banking & Finance (BBA-BF),195500,45,Bachelor,Banking & Finance
+32,Ilma University,1,1058,BS - Human Resource Management (BBA-HRM),195500,45,Bachelor,Human Resource Management
+32,Ilma University,1,1059,BS - Supply Chain Management (BBA-SCM),195500,45,Bachelor,Supply Chain Management
+32,Ilma University,1,1060,BS - Accounting & Finance (BSAF),195500,45,Bachelor,Accounting & Finance
+32,Ilma University,1,1061,BS - Digital Marketing (BS-DM),195500,45,Bachelor,Digital Marketing
+32,Ilma University,1,1062,BS - Islamic Finance (BS-IF),195500,45,Bachelor,Islamic Finance
+32,Ilma University,1,1063,BS - Computer Science (BS-CS),195500,50,Bachelor,Computer Science
+32,Ilma University,1,1064,BS - Information Technology (BS-IT),195500,50,Bachelor,Information Technology
+32,Ilma University,1,1065,BS - Artificial Intelligence (BS-AI),195500,50,Bachelor,Artificial Intelligence
+32,Ilma University,1,1066,BS - Cyber Security (BS-CST),195500,50,Bachelor,Cyber Security
+32,Ilma University,1,1067,BS - Software Engineering (BSSE),195500,50,Bachelor,Software Engineering
+32,Ilma University,1,1068,BS - Media Sciences (BS-MDS),195500,45,Bachelor,Media Sciences
+32,Ilma University,1,1069,BS - Animation & Visual Effects (BS-AV),195500,45,Bachelor,Animation & Visual Effects
+32,Ilma University,1,1070,BS - Fashion Design (BS-FD),195500,45,Bachelor,Fashion Design
+32,Ilma University,1,1071,EMBA (Executive Master of Business Administration),null,2,Master,Business Administration
+32,Ilma University,1,1072,MBA (Master of Business Administration),null,2,Master,Business Administration
+32,Ilma University,1,1073,MS-MDS (Master of Science in Media Science),null,3,Master,Media Science
+32,Ilma University,1,1074,MS-MS (Master of Science in Management Sciences),null,3,Master,Management Sciences
+32,Ilma University,1,1075,MS-CS (Master of Science in Computer Science),null,3,Master,Computer Science
+32,Ilma University,1,1076,MS-SE (Master of Science in Software Engineering),null,3,Master,Software Engineering
+33,Uit University,1,1077,BS (Computer Science),177170,50,Bachelor,Computer Science
+33,Uit University,1,1078,BS (Software Engineering),177170,60,Bachelor,Software Engineering
+33,Uit University,1,1079,BS (Accounting and Finance),110000,45,Bachelor,Accounting
+33,Uit University,1,1080,Bachelor in Business Administration (BBA),126800,45,Bachelor,Business
+33,Uit University,1,1081,B.E. Tech (Electronics),75500,50,Bachelor,Electronics
+33,Uit University,1,1082,B.E. Tech (Software),75500,50,Bachelor,Software
+33,Uit University,1,1083,B.E. Tech (Computer),75500,50,Bachelor,Computer
+33,Uit University,1,1084,BE Electrical Engineering(Computer Systems),null,60,Bachelor,Electrical Engineering
+34,Nust University,1,1085,BS Computer Science (BSCS),149000,60,Bachelor,Computer Science
+34,Nust University,1,1086,BBA Bachelor of Business Administration,200300,60,Bachelor,Business Administration
+34,Nust University,1,1087,BS English,149000,60,Bachelor,English
+34,Nust University,1,1088,BEd,149000,60,Bachelor,Education
+34,Nust University,1,1089,Bachelor of Geoinformatics Engineering,149000,60,Bachelor,Geoinformatics
+34,Nust University,1,1090,Bachelor of Environmental Engineering,149000,60,Bachelor,Environmental
+34,Nust University,1,1091,Bachelor of Civil Engineering,149000,60,Bachelor,Civil Engineering
+34,Nust University,1,1092,Bachelor of Materials Engineering,149000,60,Bachelor,Materials Engineering
+34,Nust University,1,1093,Bachelor of Electrical Engineering,149000,60,Bachelor,Electrical Engineering
+34,Nust University,1,1094,BS Software Engineering,149000,60,Bachelor,Software Engineering
+34,Nust University,1,1095,Bachelor of Mechanical Engineering,149000,60,Bachelor,Mechanical Engineering
+34,Nust University,1,1096,Bachelor of Aerospace Engineering,149000,60,Bachelor,Aerospace Engineering
+34,Nust University,1,1097,Bachelor of Avionics Engineering,149000,60,Bachelor,Avionics Engineering
+34,Nust University,1,1098,Bachelor of Mechatronics Engineering,149000,60,Bachelor,Mechatronics Engineering
+34,Nust University,1,1099,Bachelor of Military Art and Science,149000,60,Bachelor,Military Art and Science
+34,Nust University,1,1100,Bachelor of Science in Mass Communication,149000,60,Bachelor,Mass Communication
+34,Nust University,1,1101,Bachelor of Public Administration,149000,60,Bachelor,Public Administration
+34,Nust University,1,1102,Bachelor of Science in Mathematics,149000,60,Bachelor,Mathematics
+34,Nust University,1,1103,Bachelor of Science in Physics,149000,60,Bachelor,Physics
+34,Nust University,1,1104,Bachelor of Architecture,200300,60,Bachelor,Architecture
+34,Nust University,1,1105,Bachelor of Industrial Design,200300,60,Bachelor,Industrial Design
+34,Nust University,1,1106,Bachelor of Science in Applied Biosciences,149000,60,Bachelor,Biosciences
+34,Nust University,1,1107,Bachelor of Chemical Engineering,149000,60,Bachelor,Chemical Engineering
+34,Nust University,1,1108,Bachelor of Electrical (Telecommunication) Engineering,149000,60,Bachelor,Electrical Engineering
+34,Nust University,1,1109,Bachelor of Science in Accounting and Finance,200300,60,Bachelor,Accounting
+34,Nust University,1,1110,Bachelor of Computer Engineering,149000,60,Bachelor,Computer Engineering
+34,Nust University,1,1111,Bachelor of Industrial and Manufacturing Engineering,149000,60,Bachelor,Industrial Engineering
+34,Nust University,1,1112,BS Management Information Systems,149000,60,Bachelor,Management Information Systems
+34,Nust University,1,1113,BS Economics,149000,60,Bachelor,Economics
+34,Nust University,1,1114,BSc Naval Architecture Engineering,149000,60,Bachelor,Naval Architecture
+34,Nust University,1,1115,BSc Electrical Engineering,149000,60,Bachelor,Electrical Engineering
+34,Nust University,1,1116,BSc Mechanical Engineering,149000,60,Bachelor,Mechanical Engineering
+34,Nust University,1,1117,BS Information Technology (BSIT),149000,60,Bachelor,Information Technology
+34,Nust University,1,1118,MA Arabic,101780,2,Master,Arabic
+34,Nust University,1,1119,MA ELT,101780,2,Master,ELT
+34,Nust University,1,1120,MA Persian,101780,2,Master,Persian
+34,Nust University,1,1121,MSc Economics,101780,2,Master,Economics
+34,Nust University,1,1122,MCS,101780,2,Master,Computer Science
+34,Nust University,1,1123,MBA Master of Business Administration,184680,2,Master,Business Administration
+34,Nust University,1,1124,MEd,101780,2,Master,Education
+34,Nust University,1,1125,MS Geotechnical Engineering,101780,2,Master,Geotechnical
+34,Nust University,1,1126,MS Structural Engineering,101780,2,Master,Structural
+34,Nust University,1,1127,MS Urban and Regional Planning,101780,2,Master,Urban Planning
+34,Nust University,1,1128,MS Environmental Engineering,101780,2,Master,Environmental
+34,Nust University,1,1129,MS Environmental Science,101780,2,Master,Environmental
+34,Nust University,1,1130,Remote Sensing & GIS,101780,2,Master,Remote Sensing
+34,Nust University,1,1131,MS Construction Engineering & Management,101780,2,Master,Construction
+34,Nust University,1,1132,MS Water Resources Engineering and Management,101780,2,Master,Water Resources
+34,Nust University,1,1133,MS Materials & Surface Engineering,101780,2,Master,Materials
+34,Nust University,1,1134,MS Chemical Engineering,101780,2,Master,Chemical Engineering
+34,Nust University,1,1135,MS Nanoscience & Engineering,101780,2,Master,Nanoscience
+34,Nust University,1,1136,MS Process Systems Engineering,101780,2,Master,Process Systems
+34,Nust University,1,1137,MS Electrical Engineering,101780,2,Master,Electrical Engineering
+34,Nust University,1,1138,MS Information Technology,101780,2,Master,Information
+34,Nust University,1,1139,MS Computer & Communication Security,101780,2,Master,Computer Security
+34,Nust University,1,1140,MS Computer Science (MSCS),101780,2,Master,Computer Science
+34,Nust University,1,1141,MS Innovative Technologies in Education,101780,2,Master,Innovative Technologies
+34,Nust University,1,1142,MS Mechanical Engineering,101780,2,Master,Mechanical
+34,Nust University,1,1143,MS Design & Manufacturing Engineering,101780,2,Master,Design
+34,Nust University,1,1144,MS Robotics & Intelligent Machine Engineering,101780,2,Master,Robotics
+34,Nust University,1,1145,MS Biomedical Engineering,101780,2,Master,Biomedical Engineering
+34,Nust University,1,1146,MS Biomedical Sciences,101780,2,Master,Biomedical
+34,Nust University,1,1147,MS Software Engineering,101780,2,Master,Software
+34,Nust University,1,1148,MS Computer Engineering,101780,2,Master,Computer
+34,Nust University,1,1149,MS Mechatronics Engineering,101780,2,Master,Mechatronics
+34,Nust University,1,1150,MS Engineering Management,101780,2,Master,Engineering Management
+34,Nust University,1,1151,MS Disaster Management,101780,2,Master,Disaster Management
+34,Nust University,1,1152,MS Transportation Engineering,101780,2,Master,Transportation
+34,Nust University,1,1153,MS Energy Systems Engineering,101780,2,Master,Energy Systems
+34,Nust University,1,1154,MS Bioinformatics,101780,2,Master,Bioinformatics
+34,Nust University,1,1155,MS Clinical Psychology,101780,2,Master,Clinical Psychology
+34,Nust University,1,1156,MS Mass Communication,101780,2,Master,Mass Communication
+34,Nust University,1,1157,MS Development Studies,101780,2,Master,Development
+34,Nust University,1,1158,MS Physics,101780,2,Master,Physics
+34,Nust University,1,1159,MS Mathematics,101780,2,Master,Mathematics
+34,Nust University,1,1160,MS Chemistry,101780,2,Master,Applied Chemistry
+34,Nust University,1,1161,MS Geotechnical & Tunneling Engineering,101780,2,Master,Geotechnical
+34,Nust University,1,1162,MS Remote Sensing & GIS,101780,2,Master,Remote Sensing
+34,Nust University,1,1163,MS Avionics Engineering,101780,2,Master,Avionics
+34,Nust University,1,1164,MS Aerospace Engineering,101780,2,Master,Aerospace
+34,Nust University,1,1165,Executive MBA,45770,2,Master,Executive
+34,Nust University,1,1166,MS Human resource Management,161460,2,Master,Human Resource
+34,Nust University,1,1167,MS Economics,161460,2,Master,Economics
+34,Nust University,1,1168,MS Career Counseling & Education Program,101780,2,Master,Career Counseling
+34,Nust University,1,1169,MS Peace & Conflict Studies,101780,2,Master,Peace
+34,Nust University,1,1170,MS Healthcare Biotechnology,101780,2,Master,Healthcare
+34,Nust University,1,1171,MS Plant Biotechnology,101780,2,Master,Plant
+34,Nust University,1,1172,MS Industrial Biotechnology,101780,2,Master,Industrial
+35,Kmdc University,1,1173,BDS - Dentistry (Open Merit),41870,60,Bachelor,Dental Surgery
+35,Kmdc University,1,1174,MBBS (Open Merit),41870,60,Bachelor,Medicine
+35,Kmdc University,1,1175,BDS - Dentistry (Self Finance),360000,60,Bachelor,Dental Surgery
+35,Kmdc University,1,1176,MBBS (Self Finance),360000,60,Bachelor,Medicine
+36,Nazeer Hussain University,1,1177,Bachelor of Architecture,124000,50,Bachelor,Architecture
+36,Nazeer Hussain University,1,1178,Bachelor of Graphic Design,72000,50,Bachelor,Graphic Design
+36,Nazeer Hussain University,1,1179,Bachelor of Science in Mechanical Engineering,90000,60,Bachelor,Mechanical Engineering
+36,Nazeer Hussain University,1,1180,Bachelor of Science in Electrical Engineering,90000,60,Bachelor,Electrical Engineering
+36,Nazeer Hussain University,1,1181,Bachelor of Science in Computer Science,75000,50,Bachelor,Computer Science
+36,Nazeer Hussain University,1,1182,DPT,101000,60,Bachelor,Physical Therapy
+36,Nazeer Hussain University,1,1183,PHARM-D,82000,60,Bachelor,Pharmacy
+36,Nazeer Hussain University,1,1184,Bachelor of Enigneering in Software(BS-SE),75000,50,Bachelor,Software Engineering
+36,Nazeer Hussain University,1,1185,B.ED(Education),null,null,Bachelor,Education
+36,Nazeer Hussain University,1,1186,Bachelor of Science in Technology,null,null,Bachelor,Technology
+36,Nazeer Hussain University,1,1187,Bachelor of Science in Engineering Technology,null,null,Bachelor,Engineering Technology
+36,Nazeer Hussain University,1,1188,Bachelor of Business Administration (4 years),80000,45,Bachelor,Business Administration
+36,Nazeer Hussain University,1,1189,Bachelor of Business Administration (2 years),68640,45,Bachelor,Business Administration
+36,Nazeer Hussain University,1,1190,Associate Degree in Business Management,59000,45,Bachelor,Business Management
+36,Nazeer Hussain University,1,1191,Associate Degree in Computer Science,59000,50,Bachelor,Computer Science
+36,Nazeer Hussain University,1,1192,Associate Degree in Physical Therapy,85000,45,Bachelor,Physical Therapy
+36,Nazeer Hussain University,1,1193,Associate Degree in AI,59000,50,Bachelor,Artificial Intelligence
+36,Nazeer Hussain University,1,1194,Mechanical Engineering Technology,44000,50,Bachelor,Mechanical Engineering
+36,Nazeer Hussain University,1,1195,Electrical Engineering Technology,44000,50,Bachelor,Electrical Engineering
+36,Nazeer Hussain University,1,1196,Electronics Engineering Technology,44000,50,Bachelor,Electronics Engineering
+36,Nazeer Hussain University,1,1197,Civil Engineering Technology,44000,50,Bachelor,Civil Engineering
+36,Nazeer Hussain University,1,1198,Master in Business Administration (2 – Years),68640,45,Master,Business Administration
+36,Nazeer Hussain University,1,1199,Master in Business Administration (1.5 – Years),57200,45,Master,Business Administration
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1200,BS Arabic,20600,45,Bachelor,Arabic
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1201,BS English,20600,45,Bachelor,English
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1202,BS General History,20600,45,Bachelor,History
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1203,BS International Relations,20600,45,Bachelor,International Relations
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1204,BS Islamic History,20600,45,Bachelor,Islamic History
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1205,BS Mass Communication,20600,45,Bachelor,Mass Communication
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1206,BS Political Science,20600,45,Bachelor,Political Science
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1207,BS Psychology,20600,45,Bachelor,Psychology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1208,BS Sindhi,20600,45,Bachelor,Sindhi
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1209,BS Social Work,20600,45,Bachelor,Social Work
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1210,BS Urdu,20600,45,Bachelor,Urdu
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1211,Special Education,20600,50,Bachelor,Special Education
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1212,Teacher’s Education B.Ed-(1 Year),null,50,Bachelor,Education
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1213,Teacher’s Education B.Ed (Hons)(4 Year),34400,50,Bachelor,Education
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1214,BS Biochemistry,34400,50,Bachelor,Biochemistry
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1215,BS Botany,34400,50,Bachelor,Botany
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1216,BS Statistics,22250,50,Bachelor,Applied Statistics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1217,BS Chemistry,34400,50,Bachelor,Applied Chemistry
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1218,BS Computer Science,49850,50,Bachelor,Computer Science
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1219,BS Environmental Science,36050,50,Bachelor,Environmental
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1220,BS Geography,22250,50,Bachelor,Geography
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1221,BS Geology,30050,50,Bachelor,Geology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1222,BS Mathematical Sciences,34400,50,Bachelor,Mathematical Sciences
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1223,BS Microbiology,34400,50,Bachelor,Microbiology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1224,BS Physics,34400,50,Bachelor,Physics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1225,Statistics With Finance,34400,50,Bachelor,Statistics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1226,BS Zoology,34400,50,Bachelor,Zoology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1227,BS Biotechnology,51100,50,Bachelor,biotechnology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1228,BS World Religions,51100,50,Bachelor,Religion
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1229,Pharm.D (5 Year),64500,50,Bachelor,pharmacy
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1230,BBA,48200,50,Bachelor,business administration
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1231,BS Commerce (4 Year),27500,50,Bachelor,commerce
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1232,B.Com (2 Year),27500,50,Bachelor,economics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1233,BS Economics,23150,50,Bachelor,economics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1234,BS Quraan wa Sunnah,20600,50,Bachelor,Religious Studies
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1235,Islamic Learning,20600,50,Bachelor,Islamic studies
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1236,B.A-LLB (5 Year),20600,50,Bachelor,law
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1237,MA - Arabic,13000,2,Master,Arabic language
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1238,MA - English,13000,2,Master,English language
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1239,MA - General History,13000,2,Master,history
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1240,MA - International Relations,13000,2,Master,international relations
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1241,MA - Islamic History,13000,2,Master,Islamic history
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1242,MA - Mass Communication,13000,2,Master,mass communication
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1243,MA - Political Science,13000,2,Master,political science
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1244,MA - Psychology,13000,2,Master,psychology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1245,MA - Sindhi,13000,2,Master,Sindhi language
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1246,MA - Social Work,13000,2,Master,social work
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1247,MA - Urdu,13000,2,Master,Urdu language
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1248,MA - Education,13000,2,Master,education
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1249,MA - Education [special],13000,2,Master,special education
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1250,LL.M,13000,2,Master,law
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1251,M.Sc. - Biochemistry,20000,2,Master,biochemistry
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1252,M.Sc. - Botany,20000,2,Master,botany
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1253,M.Sc. - Chemistry,20000,2,Master,chemistry
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1254,M.Sc. - Computer Science,20000,2,Master,computer science
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1255,M.Sc. - Environmental Science,20000,2,Master,environmental science
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1256,M.Sc. - Geography,20000,2,Master,geography
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1257,M.Sc. - Geology,20000,2,Master,geology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1258,M.Sc. - Mathematical Sciences,20000,2,Master,mathematics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1259,M.Sc. - Microbiology,20000,2,Master,microbiology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1260,M.Sc. - Physics,15000,2,Master,physics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1261,M.Sc. - Zoology,15000,2,Master,zoology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1262,MA - Comparative Religion,13000,2,Master,religion
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1263,MA - Economics,13000,2,Master,economics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1264,MA - Islamic Studies,13000,2,Master,Islamic studies
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1265,MA - Pakistan Studies,13000,2,Master,Pakistan studies
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1266,MA - Quraan & Sunnah,13000,2,Master,Islamic studies
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1267,M.Ed. - Education [teacher],13000,2,Master,education
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1268,M.Sc. - Economics & Finance,13000,2,Master,economics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1269,MA - International Relations,13000,2,Master,international relations
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1270,MA - Mathematics,13000,2,Master,mathematics
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1271,MA - Political Science,13000,2,Master,political science
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1272,MA - Psychology,13000,2,Master,psychology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1273,MA - Social Work,13000,2,Master,social work
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1274,MA - Urdu,13000,2,Master,Urdu language
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1275,MS - Biochemistry,20000,2,Master,biochemistry
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1276,MS - Computer Science,20000,2,Master,computer science
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1277,MS - Microbiology,20000,2,Master,microbiology
+37,Federal urdu university of arts science & technology(fuuast) karachi,1,1278,MS - Pharmaceutics,20000,2,Master,pharmacy
+38,Indus Valley Of Arts University,1,1279,Bachelor of Architecture,253800,50,Bachelor,Architecture
+38,Indus Valley Of Arts University,1,1280,Bachelor of Interior Design,253800,50,Bachelor,Interior Design
+38,Indus Valley Of Arts University,1,1281,Bachelor of Textile Design,253800,50,Bachelor,Textile Design
+38,Indus Valley Of Arts University,1,1282,Bachelor of Fashion Design,253800,50,Bachelor,Fashion Design
+38,Indus Valley Of Arts University,1,1283,Bachelor of Communication Design,253800,50,Bachelor,Communication Design
+38,Indus Valley Of Arts University,1,1284,Bachelor of Fine Art,253800,50,Bachelor,Fine Art
+39,Karachi School of Business & Leadership,1,1285,BS Management & Entrepreneurship,330500,60,Bachelor,Management
+39,Karachi School of Business & Leadership,1,1286,BS Information Technology & Systems,330500,60,Bachelor,Information Technology
+39,Karachi School of Business & Leadership,1,1287,BS Accounting & Finance,330500,60,Bachelor,Accounting
+39,Karachi School of Business & Leadership,1,1288,BS Computer Science,330500,60,Bachelor,Computer Science
+39,Karachi School of Business & Leadership,1,1289,MBA,233000,2.5,Master,Business
+39,Karachi School of Business & Leadership,1,1290,Executive MBA,233000,2.5,Master,Business
+39,Karachi School of Business & Leadership,1,1291,MS- Business Analytics,233000,2.5,Master,Business Analytics
+40,United medical and dental college,1,1292,MBBS,1500000,60,Bachelor,Medicine
+40,United medical and dental college,1,1293,BDS,1200000,60,Bachelor,Dentistry
